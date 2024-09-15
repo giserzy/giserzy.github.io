@@ -41,6 +41,45 @@ For more details, please see my [full CV](/cv/).
 
 Feel free to [contact me](sggzhang@whu.edu.cn) if you have any questions or are interested in collaboration!
 
+## Get in Touch
+
+Whether you have questions, suggestions, or are interested in collaboration, I welcome you to get in touch. Below are my personal WeChat and Official Account QR codes. Feel free to choose the most convenient method to connect with me.
+
+### Personal WeChat
+
+Scan the QR code below to add me on WeChat:
+
+<img src="/images/wechat.jpg" alt="Personal WeChat QR Code" style="width: 200px; height: 200px;">
+
+### WeChat Official Account
+
+Follow my WeChat Official Account (sensingcity,城市感知计算) for the latest updates and articles:
+
+<img src="/images/plat.jpg" alt="WeChat Official Account QR Code" style="width: 200px; height: 200px;">
+
+## Other Contact Methods
+
+- **Email**: [sggzhang@whu.edu.cn](mailto:sggzhang@whu.edu.cn)
+- **GitHub**: [yemanzhongting](https://github.com/yemanzhongting)
+- **RedBook**: [城市感知计算](https://www.linkedin.com/in/your-profile)
+
+Thank you for your interest and support! I'll respond to your messages as soon as possible.
+
+## About WeChat and the Official Account
+
+For those unfamiliar with WeChat:
+
+- **WeChat (微信)** is a multi-purpose messaging, social media, and mobile payment app widely used in China and increasingly popular globally.
+- A **WeChat Official Account (公众号)** is a platform within WeChat for individuals, businesses, and organizations to publish content and interact with followers.
+
+By scanning these QR codes with the WeChat app:
+- You can add me as a contact for direct communication (Personal WeChat).
+- You can follow my Official Account to receive regular updates and content.
+
+If you're outside China or don't use WeChat, feel free to use the other contact methods listed above.
+
+## Demo
+
 <style>
   .project-container {
     display: flex;
