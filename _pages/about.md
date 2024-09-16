@@ -150,13 +150,13 @@ If you're outside China or don't use WeChat, feel free to use the other contact 
   <div class="project">
     <h3>Sensing City through Street View</h3>
     <div class="image-container">
-      <img src="https://raw.githubusercontent.com/yemanzhongting/picb/main/depth_view.gif" alt="Sensing City">
+      <img src="/images/depth_view.gif" alt="Sensing City">
     </div>
   </div>
   <div class="project">
     <h3>City Dance</h3>
     <div class="image-container">
-      <img src="https://raw.githubusercontent.com/yemanzhongting/picb/main/%E5%9F%8E%E5%B8%82%E5%BE%8B%E5%8A%A82.gif" alt="City Dance">
+      <img src="/images/dance.gif" alt="City Dance">
     </div>
   </div>
 </div>

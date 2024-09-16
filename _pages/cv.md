@@ -90,4 +90,3 @@ Conference Participation
 ======
 * Global Conference on Climate Change Polar Studies, Environment and Climate Change
 * Global Smart Cities Summit cum The 3rd International Conference on Urban Informatics (ICUI 2023)
-
