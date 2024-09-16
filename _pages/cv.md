@@ -55,7 +55,15 @@ Reviewer
 
 *  Language Resources and Evaluation,SCI Q1
 
+*  Journal of Asian architecture and building engineering,SCI Q1
+
+*  Journal of environmental management,SCI Q1
+
 *  Transactions in Urban Data, Science and Technology
+
+*  International Journal of Crowd Science
+
+*  Computational urban science
 
 *  Transactions in GIS,SSCI Q2
 
@@ -65,14 +73,15 @@ Reviewer
 
 *  IEEE Access,SCI Q2
 
-*  International Journal of Crowd Science
-
 *  Environment and Planning B: Urban Analytics and City Science,SCI Q1
 
 *  Landscape and Urban Planning, SCI Q1
 
-
 *  Climatic Change,SCI Q1
+
+*  Remote Sensing,SCI Q1
+
+*  Energies,SCI Q1
 
 *  Transportation Research Part D: Transport and Environment,SCI Q1
 

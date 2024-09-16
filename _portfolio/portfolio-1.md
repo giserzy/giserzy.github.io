@@ -1,6 +1,6 @@
 ---
-title: "Project1"
-excerpt: "Human Mobility Green Exposure<br/><img src='/images/green.jpg'>"
+title: "Human Mobility Green Exposure"
+excerpt: "dashboard<br/><img src='/images/green.jpg'>"
 collection: portfolio
 ---
 
