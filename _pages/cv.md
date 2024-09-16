@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Cartography and Geographic Information Systems, Wuhan University, 2023
+* Joint Ph.D. , The National Univeristy Of Singapore, 2022
+* M.S. in Geomatics Engineering, Wuhan University, 2020
+* B.S. in Geomatics Engineering, Wuhan University, 2018
 
-Work experience
+Academic experience
 ======
 * Dec 2023 - Present: Postdoctoral Fellow
   * Chinese University of Hong Kong

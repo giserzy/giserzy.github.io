@@ -20,6 +20,7 @@ My research lies at the intersection of geospatial artificial intelligence (GeoA
 ## Education
 
 - Ph.D. in Cartography and Geographic Information Systems, Wuhan University, 2023
+- Joint Ph.D. , The National Univeristy Of Singapore, 2022
 - M.S. in Geomatics Engineering, Wuhan University, 2020
 - B.S. in Geomatics Engineering, Wuhan University, 2018
 
@@ -45,17 +46,36 @@ Feel free to [contact me](sggzhang@whu.edu.cn) if you have any questions or are 
 
 Whether you have questions, suggestions, or are interested in collaboration, I welcome you to get in touch. Below are my personal WeChat and Official Account QR codes. Feel free to choose the most convenient method to connect with me.
 
-### Personal WeChat
+<style>
+  .qr-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  .qr-item {
+    text-align: center;
+    margin: 10px;
+  }
+  .qr-item img {
+    width: 200px;
+    height: 200px;
+  }
+</style>
 
-Scan the QR code below to add me on WeChat:
-
-<img src="/images/wechat.jpg" alt="Personal WeChat QR Code" style="width: 200px; height: 200px;">
-
-### WeChat Official Account
-
-Follow my WeChat Official Account (sensingcity,城市感知计算) for the latest updates and articles:
-
-<img src="/images/plat.jpg" alt="WeChat Official Account QR Code" style="width: 200px; height: 200px;">
+<div class="qr-container">
+  <div class="qr-item">
+    <h3>Personal WeChat</h3>
+    <p>Scan the QR code below to add me on WeChat:</p>
+    <img src="/images/wechat.jpg" alt="Personal WeChat QR Code">
+  </div>
+  
+  <div class="qr-item">
+    <h3>WeChat Official Account</h3>
+    <p>Follow my WeChat Official Account (sensingcity,城市感知计算) for the latest updates and articles:</p>
+    <img src="/images/plat.jpg" alt="WeChat Official Account QR Code">
+  </div>
+</div>
 
 ## Other Contact Methods
 
