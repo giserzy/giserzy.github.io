@@ -1,10 +1,13 @@
 ---
 permalink: /markdown/
-title: "GISChat Fellowship"
+title: "GISChat Fellowship: Follow us on the Wechat Platform!"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+---
+
+***
 ---
 
 <style>
@@ -15,7 +18,6 @@ img {
 }
 </style>
 
-
 # 陆慧缘(HuiYuan Lu)
 
 **Introduction:** 研究方向为：生态遥感，地理空间分析，生物多样性，全球气候变化
@@ -24,7 +26,7 @@ img {
 
 **Location:** 武汉
 
-![Photo 1](/images/image001.png)
+![Photo 1](/images/BIOGM.jpg)
 
 **Contact:** 208014658@qq.com
 
@@ -66,7 +68,7 @@ img {
 
 **Location:** 武汉
 
-**Coordinates:** X: 114.311581554732, Y: 30.598466736401
+![Photo 1](/images/BIOAY.jpg)
 
 **Contact:** 1546157076@qq.com
 
@@ -80,7 +82,7 @@ img {
 
 **Location:** 武汉
 
-**Coordinates:** X: 114.311581554732, Y: 30.598466736401
+![Photo 1](/images/BIOTS.jpg)
 
 **Contact:** gutsgeo@163.com
 
@@ -94,7 +96,7 @@ img {
 
 **Location:** 西宁
 
-**Coordinates:** X: 101.784450170509, Y: 36.6233846965166
+![Photo 1](/images/BIOYB.jpg)
 
 **Contact:** fengmeta@163.com
 
@@ -109,7 +111,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 深圳
 
-**Coordinates:** X: 114.064551836588, Y: 22.5484566379842
+![Photo 1](/images/BIOXY.jpg)
 
 **Contact:** womaxinyue@163.com
 
@@ -165,7 +167,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 广州
 
-**Coordinates:** X: 113.27143134446, Y: 23.135336306695
+![Photo 1](/images/BIOQY.jpg)
 
 **Contact:** 464059678@qq.com
 
@@ -221,7 +223,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 爱丁堡
 
-**Coordinates:** X: None, Y: None
+![Photo 1](/images/BIOSQ.jpg)
 
 **Contact:** qtec@outlook.com
 
@@ -249,7 +251,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 哈尔滨
 
-**Coordinates:** X: 126.541615090317, Y: 45.8088258279522
+![Photo 1](/images/BIOJC.jpg)
 
 **Contact:** 3378236599@qq.com
 
@@ -262,6 +264,8 @@ I specialize in urban planning and urban climate research, with a focus on explo
 **School:** 马来西亚国立大学 (The National University of Malaysia)
 
 **Location:** 吉隆坡
+
+![Photo 1](/images/BIOAG.jpg)
 
 **Contact:** yangmin9508@gmial.com
 714676460@qq.com
@@ -276,13 +280,25 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 武汉
 
-**Coordinates:** X: 114.311581554732, Y: 30.598466736401
+![Photo 1](/images/BIOQQ.jpg)
 
 **Contact:** qinquan@whu.edu.cn
 
 ---
 
+# 马浩然 (Haoran Ma)
 
+**Introduction:** 
+
+**School:** 香港中文大学 (CUHK University)
+
+**Location:** 香港
+
+![Photo 1](/images/BIOHR.jpg)
+
+**Contact:** 
+
+---
 
 <style>
   #virtualLocationsMap {

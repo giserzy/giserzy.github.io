@@ -39,6 +39,53 @@ Skills
 * Social inequality analysis
 * Spatial-temporal big data analysis
 
+Reviewer
+======
+*  Environment International,SCI Q1
+
+*  Applied Geography,SCI Q1
+
+*  Geoscience Letters,SCI Q1
+
+*  International Journal of Applied Earth Observation and Geoinformation,SCI Q1
+
+*  Journal of Environment Development,SCI Q1
+
+*  Science of the Total Environment,SCI Q1
+
+*  Language Resources and Evaluation,SCI Q1
+
+*  Transactions in Urban Data, Science and Technology
+
+*  Transactions in GIS,SSCI Q2
+
+*  Journal of Cleaner Production,SSCI Q1
+
+*  Plos One,SCI Q1
+
+*  IEEE Access,SCI Q2
+
+*  International Journal of Crowd Science
+
+*  Environment and Planning B: Urban Analytics and City Science,SCI Q1
+
+*  Landscape and Urban Planning, SCI Q1
+
+
+*  Climatic Change,SCI Q1
+
+*  Transportation Research Part D: Transport and Environment,SCI Q1
+
+*  Journal of Hydrology,SCI Q1
+
+*  Environmental Science and Pollution Research,SCI Q1
+
+\*  **Membership**, Association for Computing Machinery
+
+\* **Membership**,International Society for Photogrammetry and Remote Sensing
+
+\* **Guest Chair Editor**, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Special Issue Name: Street View Imagery and GeoAI, IF: 5.5),SCI Q1
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
