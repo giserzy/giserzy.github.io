@@ -54,7 +54,7 @@ img {
 
 **Location:** 广州
 
-**Coordinates:** X: 113.27143134446, Y: 23.135336306695
+![Photo 1](/images/BIOAM.jpg)
 
 **Contact:** entongke@m.scnu.edu.cn
 
@@ -125,7 +125,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 上海
 
-**Coordinates:** X: 121.480538860177, Y: 31.235929042252
+![Photo 1](/images/BIOGZ.jpg)
 
 **Contact:** 1376755287@qq.com
 
@@ -139,7 +139,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 合肥
 
-**Coordinates:** X: 117.233442664977, Y: 31.8265778336869
+![Photo 1](/images/BIOYS.jpg)
 
 **Contact:** xuanduli@yeah.com
 
@@ -153,7 +153,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 伊宁
 
-**Coordinates:** X: 81.2842424052784, Y: 43.9152994362432
+![Photo 1](/images/BIOXN.jpg)
 
 **Contact:** hairunie2261@hotmail.com
 
@@ -181,7 +181,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 杭州
 
-**Coordinates:** X: 120.215511803722, Y: 30.2530829816935
+![Photo 1](/images/BIOHZ.jpg)
 
 **Contact:** 943501151@qq.com
 
@@ -195,7 +195,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 徐州
 
-**Coordinates:** X: 117.290575434395, Y: 34.2126665501131
+![Photo 1](/images/BIOYW.jpg)
 
 **Contact:** 1943828327@qq.com
 
