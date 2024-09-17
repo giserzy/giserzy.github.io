@@ -13,7 +13,7 @@ redirect_from:
 <style>
 img {
   width: 300px;
-  height: 200px;
+  height: 300px;
   object-fit: cover;
 }
 </style>
