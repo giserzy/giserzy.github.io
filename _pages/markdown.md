@@ -40,7 +40,7 @@ img {
 
 **Location:** 米兰
 
-**Coordinates:** X: 9.22853, Y: 45.47887
+![Photo 1](/images/BIOJL.jpg)
 
 **Contact:** jiale.guo@mail.polimi.it
 
@@ -267,7 +267,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 ![Photo 1](/images/BIOAG.jpg)
 
-**Contact:** yangmin9508@gmial.com
+**Contact:** yangmin9508@gmail.com
 714676460@qq.com
 
 ---
@@ -297,6 +297,21 @@ I specialize in urban planning and urban climate research, with a focus on explo
 ![Photo 1](/images/BIOHR.jpg)
 
 **Contact:** 
+
+
+---
+
+# 文舒昊（Shuhao Wen）
+
+**Introduction:** GeoAI，农业遥感
+
+**School:** 中国地质大学（武汉）China University of Geosciences,Wuhan
+
+**Location:** 武汉
+
+![Photo 1](/images/BIOST.jpg)
+
+**Contact:** wenshuhao1125@163.com
 
 ---
 
