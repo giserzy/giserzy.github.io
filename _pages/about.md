@@ -9,9 +9,69 @@ redirect_from:
 
 I am a Postdoctoral Fellow in the Institute of Space and Earth Information Science at the Chinese University of Hong Kong. My research focuses on using GeoAI and social sensing methods to study urban science, disaster response, and social inequality.
 
-## Research Interests
+<!-- ## Research Interests
 
-My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies:
+My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: -->
+
+<style>
+  .research-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  .research-item {
+    width: 30%;
+    min-width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .research-icon {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+  }
+  @media (max-width: 768px) {
+    .research-item {
+      width: 100%;
+    }
+  }
+</style>
+
+<h2>Research Interests</h2>
+
+<p>My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies:</p>
+
+<div class="research-container">
+  <div class="research-item">
+    <!-- <div class="research-icon">🏙️</div> -->
+    <img src="/images/RD1.png" >
+    <h3>Micro-scale Urban Perception</h3>
+    <p>Utilizing urban sensing devices and crowdsourced data for urban function and traffic modeling.</p>
+  </div>
+  
+  <div class="research-item">
+    <!-- <div class="research-icon">🚨</div> -->
+    <img src="/images/RD2.png" >
+    <h3>Disaster Emergency Management</h3>
+    <p>Integrating natural language processing with geo-tagged social media data for real-time, data-driven disaster response.</p>
+  </div>
+  
+  <div class="research-item">
+    <!-- <div class="research-icon">👥</div> -->
+    <img src="/images/RD3.png" >
+    <h3>Social Isolation and Inequality</h3>
+    <p>Understanding urban human-social systems through analysis of spatiotemporal big data.</p>
+  </div>
+</div>
+
+
 
 - **Micro-scale Urban Perception**: Utilizing urban sensing devices and crowdsourced data for urban function and traffic modeling.
 - **Disaster Emergency Management**: Integrating natural language processing with geo-tagged social media data for real-time, data-driven disaster response.
@@ -49,24 +109,38 @@ Whether you have questions, suggestions, or are interested in collaboration, I w
 <style>
   .qr-container {
     display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: stretch;
     flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
   }
   .qr-item {
-    text-align: center;
-    margin: 10px;
+    flex: 1;
+    min-width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
   }
   .qr-item img {
     width: 200px;
     height: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+  @media (max-width: 650px) {
+    .qr-container {
+      flex-direction: column;
+    }
+    .qr-item {
+      width: 100%;
+    }
   }
 </style>
 
 <div class="qr-container">
   <div class="qr-item">
     <h3>Personal WeChat</h3>
-    <p>Scan the QR code below to add me on WeChat:</p>
+    <p>Scan the QR code below to add me on WeChat, i will be like to have interdisciplinarity discussion and cooperation:</p>
     <img src="/images/wechat.jpg" alt="Personal WeChat QR Code">
   </div>
   
