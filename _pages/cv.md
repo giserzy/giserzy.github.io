@@ -67,6 +67,9 @@ Reviewer
 
 *  Transactions in GIS,SSCI Q2
 
+
+*  Sustainability,SSCI Q2
+
 *  Journal of Cleaner Production,SSCI Q1
 
 *  Plos One,SCI Q1
@@ -81,7 +84,7 @@ Reviewer
 
 *  Remote Sensing,SCI Q1
 
-*  Energies,SCI Q1
+*  Energies,SCI Q3
 
 *  Transportation Research Part D: Transport and Environment,SCI Q1
 
