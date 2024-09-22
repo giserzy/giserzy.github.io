@@ -288,7 +288,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 # 马浩然 (Haoran Ma)
 
-**Introduction:** 
+**Introduction:** 香港中文大学研究助理，环艺跨地理专业选手，多篇交叉学科top期刊加持。主要研究方向为地理人工智能、环境心理学、绿色暴露、不平等、城市感知。
 
 **School:** 香港中文大学 (CUHK University)
 
@@ -298,6 +298,47 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Contact:** 
 
+---
+
+# 陈钧洛（Dylan Junluo CHEN）
+
+**Introduction:** genAI, online community, healthcare, corporate governance, children trafficking
+
+**School:** 香港城市大学 (City University of Hong Kong)
+
+**Location:** 香港
+
+<!-- ![Photo 1](/images/BIOHR.jpg) -->
+
+**Contact:** chenjunluo.is@gmail.com
+
+---
+
+# 陶天民（Tianmin Tao）
+
+**Introduction:** Urban resilience; Sustainable development; Walkability
+
+**School:** 中山大学（SUN YAT-SEN UNIVERSITY）
+
+**Location:** 广州
+
+![Photo 1](/images/BIOTM.jpeg)
+
+**Contact:** nwnuttm@163.com
+
+---
+
+# 刘佳雨（Jiayu Liu）
+
+**Introduction:** 面向交通地理的时空大数据，空间优化与轨迹挖掘
+
+**School:** 陕西师范大学
+
+**Location:** 西安
+
+![Photo 1](/images/BIOJY.jpeg)
+
+**Contact:** liujiayu@snnu.edu.cn
 
 ---
 
