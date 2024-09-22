@@ -237,7 +237,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Location:** 香港
 
-**Coordinates:** X: 114.174642454588, Y: 22.2738604776398
+![Photo 1](/images/BIOTZ.jpg)
 
 **Contact:** None
 
