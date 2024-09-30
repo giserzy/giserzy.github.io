@@ -92,6 +92,8 @@ Reviewer
 
 *  Environmental Science and Pollution Research,SCI Q1
 
+*  Urban Science, ESCI
+
 \*  **Membership**, Association for Computing Machinery
 
 \* **Membership**,International Society for Photogrammetry and Remote Sensing

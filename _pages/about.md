@@ -9,9 +9,11 @@ redirect_from:
 
 I am a Postdoctoral Fellow in the Institute of Space and Earth Information Science at the Chinese University of Hong Kong. My research focuses on using GeoAI and social sensing methods to study urban science, disaster response, and social inequality.
 
-<!-- ## Research Interests
+## News
 
-My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: -->
+**2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) ！
+
+<!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 
 <style>
   .research-container {
