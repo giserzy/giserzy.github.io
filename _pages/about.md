@@ -237,9 +237,42 @@ If you're outside China or don't use WeChat, feel free to use the other contact 
   </div>
 </div>
 
-<div class="stats">
+<!-- <div class="stats">
   <img src="https://komarev.com/ghpvc/?username=yemanzhongting" alt="Profile views">
   <a href="https://info.flagcounter.com/16fE">
     <img src="https://s01.flagcounter.com/map/16fE/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0">
   </a>
+</div> -->
+
+<style>
+  .stats2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .stats2 img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<div class="stats2">
+  <div>
+    <img src="https://camo.githubusercontent.com/3bb8ffcdd1145e661bf0d93807d1ed1207bf9e28ec1cb315513ea3b94eabee0c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d79656d616e7a686f6e6774696e67" alt="访问计数器">
+  </div>
+  
+  <div>
+    <a href="https://info.flagcounter.com/16fE">
+      <img src="https://s01.flagcounter.com/count2/16fE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://info.flagcounter.com/16fE">
+      <img src="https://s01.flagcounter.com/map/16fE/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0">
+    </a>
+  </div>
 </div>
