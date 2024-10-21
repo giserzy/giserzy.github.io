@@ -11,7 +11,7 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 ## News
 
-**2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) ！
+**2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/science/article/pii/S0924271624003708) ！
 
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 

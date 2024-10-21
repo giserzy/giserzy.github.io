@@ -32,6 +32,20 @@ img {
 
 ---
 
+# 高超（Chao Gao）
+
+**Introduction:** 城市更新与空间治理，环境感知与行为研究，交通运输规划与管理
+
+**School:** 长安大学
+
+**Location:** 西安
+
+![Photo 1](/images/GC.jpg)
+
+**Contact:** chao.gao@chd.edu.cn
+
+---
+
 # 郭家乐(Jiale Guo)
 
 **Introduction:** GeoAI、极端灾害
