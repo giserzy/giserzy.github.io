@@ -13,6 +13,8 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 **2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/science/article/pii/S0924271624003708) ！
 
+**2024.10**: One LandUse Uncertainty related paper has been accepted by <font color="red">**Transaction in GIS**</font> [Link](https://www.sciencedirect.com/science/article/pii/S0924271624003708) ！
+
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 
 <style>
@@ -68,7 +70,7 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
   <div class="research-item">
     <!-- <div class="research-icon">👥</div> -->
     <img src="/images/RD3.png" >
-    <h3>Social Isolation and Inequality</h3>
+    <h3>Environmental Health and Inequality</h3>
     <p>Understanding urban human-social systems through analysis of spatiotemporal big data.</p>
   </div>
 </div>
@@ -77,7 +79,7 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 - **Micro-scale Urban Perception**: Utilizing urban sensing devices and crowdsourced data for urban function and traffic modeling.
 - **Disaster Emergency Management**: Integrating natural language processing with geo-tagged social media data for real-time, data-driven disaster response.
-- **Social Isolation and Inequality**: Understanding urban human-social systems through analysis of spatiotemporal big data.
+- **Environmental Health and Inequality**: Understanding urban human-social systems through analysis of spatiotemporal big data.
 
 ## Education
 
