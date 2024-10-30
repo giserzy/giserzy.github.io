@@ -90,6 +90,10 @@ Reviewer
 
 *  Journal of Hydrology,SCI Q1
 
+*  ISPRS International Journal of Geo-Information,SCI Q1
+
+*  Heritage,ESCI Q2
+
 *  Environmental Science and Pollution Research,SCI Q1
 
 *  Urban Science, ESCI
