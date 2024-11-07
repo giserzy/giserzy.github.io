@@ -155,3 +155,136 @@ Conference Participation
 ======
 * Global Conference on Climate Change Polar Studies, Environment and Climate Change
 * Global Smart Cities Summit cum The 3rd International Conference on Urban Informatics (ICUI 2023)
+
+Statistic
+======
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analysis of Urban Function Distribution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f0f2f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1a237e;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        #chart {
+            width: 100%;
+            height: 400px;
+            margin-bottom: 30px;
+        }
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .color-box {
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            #chart {
+                height: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Analysis of Urban Function Distribution</h1>
+        <div id="chart"></div>
+        <div class="legend">
+            <div class="legend-item">
+                <div class="color-box" style="background: #FF6B6B"></div>
+                <span>Residential</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box" style="background: #4ECDC4"></div>
+                <span>Commercial</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box" style="background: #45B7D1"></div>
+                <span>Industrial</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box" style="background: #96CEB4"></div>
+                <span>Green Space</span>
+            </div>
+            <div class="legend-item">
+                <div class="color-box" style="background: #D4A5A5"></div>
+                <span>Mixed Use</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <script>
+        const chart = echarts.init(document.getElementById('chart'));
+        
+        const option = {
+            tooltip: {
+                trigger: 'item',
+                formatter: '{b}: {c} km² ({d}%)'
+            },
+            series: [{
+                name: 'Urban Functions',
+                type: 'pie',
+                radius: ['40%', '70%'],
+                avoidLabelOverlap: false,
+                itemStyle: {
+                    borderRadius: 10,
+                    borderColor: '#fff',
+                    borderWidth: 2
+                },
+                label: {
+                    show: true,
+                    formatter: '{b}\n{d}%'
+                },
+                labelLine: {
+                    show: true
+                },
+                data: [
+                    { value: 35, name: 'Residential', itemStyle: { color: '#FF6B6B' } },
+                    { value: 25, name: 'Commercial', itemStyle: { color: '#4ECDC4' } },
+                    { value: 20, name: 'Industrial', itemStyle: { color: '#45B7D1' } },
+                    { value: 15, name: 'Green Space', itemStyle: { color: '#96CEB4' } },
+                    { value: 5, name: 'Mixed Use', itemStyle: { color: '#D4A5A5' } }
+                ]
+            }]
+        };
+
+        chart.setOption(option);
+
+        window.addEventListener('resize', function() {
+            chart.resize();
+        });
+    </script>
+</body>
+</html>
