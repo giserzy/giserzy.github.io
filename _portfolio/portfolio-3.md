@@ -1,7 +1,9 @@
 ---
 title: "Multi-level urban street representation with street-view imagery and hybrid semantic graph"
-excerpt: "<img src='/images/abstract.png'>"
+excerpt: "hybrid semantic graph"
 collection: portfolio
+header:
+  teaser: "/images/abstract.png"
 ---
 
 <html>

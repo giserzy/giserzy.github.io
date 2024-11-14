@@ -1,7 +1,10 @@
 ---
 title: "Inequality"
-excerpt: "Sensing noise exposure and its inequality based on noise complaint data through vision-language hybrid method <br/><img src='/images/cam.png'>"
+excerpt: "Sensing noise exposure and its inequality based on noise complaint data through vision-language hybrid method"
 collection: portfolio
+collection: portfolio
+header:
+  teaser: "/images/cam.png"
 ---
 
 This is an item in your portfolio. It can have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.

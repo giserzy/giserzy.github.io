@@ -1,7 +1,9 @@
 ---
 title: "Human Mobility Green Exposure"
-excerpt: "dashboard<br/><img src='/images/green.jpg'>"
+excerpt: "Dashboard"
 collection: portfolio
+header:
+  teaser: "/images/Project1.png"
 ---
 
 <style>
