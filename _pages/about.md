@@ -13,7 +13,11 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 **2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/science/article/pii/S0924271624003708) ！
 
-**2024.10**: One LandUse Uncertainty related paper has been accepted by <font color="red">**Transaction in GIS**</font> [Link](https://www.sciencedirect.com/science/article/pii/S0924271624003708) ！
+**2024.10**: One LandUse Uncertainty related paper has been accepted by <font color="red">**Transaction in GIS**</font> [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13272) ！
+
+**2024.10**: One environment exposure related paper has been accepted by <font color="red">**Computers, Environment and Urban Systems**</font> [Link](https://www.sciencedirect.com/science/article/abs/pii/S0198971524001339) ！
+
+
 
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 

@@ -67,7 +67,6 @@ Reviewer
 
 *  Transactions in GIS,SSCI Q2
 
-
 *  Sustainability,SSCI Q2
 
 *  Journal of Cleaner Production,SSCI Q1
