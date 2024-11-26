@@ -23,7 +23,6 @@ header:
     <iframe src="/images/greenexposuredashboard.html"></iframe>
 </div>
 
-Additional description about your portfolio item goes here. You can add more text, images, or other HTML content as needed.
 
 <!-- <!DOCTYPE html>
 <html lang="en">
