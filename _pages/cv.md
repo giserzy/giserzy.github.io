@@ -41,6 +41,8 @@ Skills
 
 Reviewer
 ======
+*  Sustainable Cities and Society,SCI Q1
+
 *  Environment International,SCI Q1
 
 *  Applied Geography,SCI Q1
