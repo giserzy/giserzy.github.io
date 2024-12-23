@@ -131,6 +131,7 @@ Project Involvement
 Principal Investigator
 ======
 * China-U.S. Scholars Program (CUSP) Grant, Harvard and Yenching Institute, $3,285 USD, April 2024
+* Research on Explainable Causal Analysis Framework for Traffic Congestion Based on Large Model Agents, Open Fund of State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (24I04), ¥ 50,000 Yuan, Jan 2025 [Link](https://liesmars.whu.edu.cn/info/1058/18223.htm)
 
 Joint Supervision of Master's Thesis
 ======
