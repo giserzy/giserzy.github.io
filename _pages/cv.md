@@ -43,6 +43,10 @@ Reviewer
 ======
 *  Sustainable Cities and Society,SCI Q1
 
+*  Scientific Data,SCI Q1
+
+*  Journal of Sustainable Forestry (reviewer),SCI Q2
+
 *  Environment International,SCI Q1
 
 *  Applied Geography,SCI Q1
@@ -86,6 +90,8 @@ Reviewer
 *  Remote Sensing,SCI Q1
 
 *  Energies,SCI Q3
+
+*  Biomimetics,SCI Q1
 
 *  Transportation Research Part D: Transport and Environment,SCI Q1
 
