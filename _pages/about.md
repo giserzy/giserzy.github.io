@@ -17,7 +17,9 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 **2024.10**: One environment exposure related paper has been accepted by <font color="red">**Computers, Environment and Urban Systems**</font> [Link](https://www.sciencedirect.com/science/article/abs/pii/S0198971524001339) ！
 
+**2025.01**: One collaboration emergency management paper has been accepted by <font color="red">**Cleaner Engineering and Technology**</font> [Link](https://www.sciencedirect.com/science/article/pii/S2666790825000151) ！
 
+**2025.01**: One GeoAI review paper has been accepted by <font color="red">**地球信息科学学报**</font> [Link](https://mp.weixin.qq.com/s/hkgMRSZT5Vwz95avhEasiQ) ！
 
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 
