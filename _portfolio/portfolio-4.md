@@ -23,6 +23,10 @@ header:
     <iframe src="/images/crime.html"></iframe>
 </div>
 
+ An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China
+![1 million data record](/images/crime2.png)
+
+Ref: Zhang, Y., Kwan, MP. & Fang, L. An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China. Sci Data 12, 467 (2025). https://doi.org/10.1038/s41597-025-04757-8
 
 <!-- <!DOCTYPE html>
 <html lang="en">
