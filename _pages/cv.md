@@ -69,6 +69,8 @@ Reviewer
 
 *  International Journal of Crowd Science
 
+*  Geomatics, Natural Hazards and Risk, SCI Q1
+
 *  Computational urban science
 
 *  Transactions in GIS,SSCI Q2
