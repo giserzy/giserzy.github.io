@@ -21,6 +21,9 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 **2025.01**: One GeoAI review paper has been accepted by <font color="red">**地球信息科学学报**</font> [Link](https://mp.weixin.qq.com/s/hkgMRSZT5Vwz95avhEasiQ) ！
 
+**2025.01**: One LLM driven crime dataset paper (An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China) has been accepted by <font color="red">**Scientific Data**</font> Data[Link](https://doi.org/10.6084/m9.figshare.28106939) Article[Link](https://www.nature.com/articles/s41597-025-04757-8) and has been indexed by National Earth Observation Data Center and 5000 download [News Link](https://mp.weixin.qq.com/s/MddBOoAIlRTiAHihYg1fNg)！
+
+
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 
 <style>
