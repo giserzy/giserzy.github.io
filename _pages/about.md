@@ -21,8 +21,9 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 **2025.01**: One GeoAI review paper has been accepted by <font color="red">**地球信息科学学报**</font> [Link](https://mp.weixin.qq.com/s/hkgMRSZT5Vwz95avhEasiQ) ！
 
-**2025.01**: One LLM driven crime dataset paper (An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China) has been accepted by <font color="red">**Scientific Data**</font> Data[Link](https://doi.org/10.6084/m9.figshare.28106939) Article[Link](https://www.nature.com/articles/s41597-025-04757-8) and has been indexed by National Earth Observation Data Center and 5000 download [News Link](https://mp.weixin.qq.com/s/MddBOoAIlRTiAHihYg1fNg)！
+**2025.04**: One LLM driven crime dataset paper (An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China) has been accepted by <font color="red">**Scientific Data**</font> Data[Link](https://doi.org/10.6084/m9.figshare.28106939) Article[Link](https://www.nature.com/articles/s41597-025-04757-8) and has been indexed by National Earth Observation Data Center and 5000 download [News Link](https://mp.weixin.qq.com/s/MddBOoAIlRTiAHihYg1fNg)！
 
+**2025.05**: One LLM driven urban sensing paper (Knowledge and Topology: A Two Layer Spatially Dependent Graph Neural Networks to Identify Urban Functions with Time-series Street View Image) has been included as an <font color="red">**ESI highly cited paper (1%)**</font> Paper[Link](https://www.sciencedirect.com/science/article/pii/S0924271623000680)！
 
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 
