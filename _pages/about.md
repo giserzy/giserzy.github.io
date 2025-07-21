@@ -25,6 +25,11 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 **2025.05**: One LLM driven urban sensing paper (Knowledge and Topology: A Two Layer Spatially Dependent Graph Neural Networks to Identify Urban Functions with Time-series Street View Image) has been included as an <font color="red">**ESI highly cited paper (1%)**</font> Paper[Link](https://www.sciencedirect.com/science/article/pii/S0924271623000680)！
 
+**2025.07**: One traffic estimation research based on the satellite image and ground based station research has been publisheds at <font color="red">**International Journal of Digital Earth**</font> [Link](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2528640?src=exp-la) ！
+
+**2025.07**: One mobility- based exposure review research has been publisheds at <font color="red">**Science Bulletin**</font> [Link](https://www.sciencedirect.com/science/article/pii/S2095927325007364) ！
+
+
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 
 <style>
