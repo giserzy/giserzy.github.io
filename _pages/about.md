@@ -11,6 +11,9 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 ## News
 
+**2024.8**: Urban intelligent sensing series seminar based on GeoAI ！
+![Photo 1](/images/jiangzuo.jpg)
+
 **2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/science/article/pii/) ！
 
 **2024.10**: One LandUse Uncertainty related paper has been accepted by <font color="red">**Transaction in GIS**</font> [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13272) ！
@@ -23,12 +26,15 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 **2025.04**: One LLM driven crime dataset paper (An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China) has been accepted by <font color="red">**Scientific Data**</font> Data[Link](https://doi.org/10.6084/m9.figshare.28106939) Article[Link](https://www.nature.com/articles/s41597-025-04757-8) and has been indexed by National Earth Observation Data Center and 5000 download [News Link](https://mp.weixin.qq.com/s/MddBOoAIlRTiAHihYg1fNg)！
 
+**2025.05**:co-charir of city sensing and computing seminar at 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会
+
 **2025.05**: One LLM driven urban sensing paper (Knowledge and Topology: A Two Layer Spatially Dependent Graph Neural Networks to Identify Urban Functions with Time-series Street View Image) has been included as an <font color="red">**ESI highly cited paper (1%)**</font> Paper[Link](https://www.sciencedirect.com/science/article/pii/S0924271623000680)！
 
 **2025.07**: One traffic estimation research based on the satellite image and ground based station research has been publisheds at <font color="red">**International Journal of Digital Earth**</font> [Link](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2528640?src=exp-la) ！
 
 **2025.07**: One mobility- based exposure review research has been publisheds at <font color="red">**Science Bulletin**</font> [Link](https://www.sciencedirect.com/science/article/pii/S2095927325007364) ！
 
+<!-- **2025.08**:co-charir of city sensing and computing seminar at 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会  --> 
 
 <!-- My research lies at the intersection of geospatial artificial intelligence (GeoAI), social sensing, and urban studies: --> 
 
