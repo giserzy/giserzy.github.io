@@ -11,8 +11,13 @@ I am a Postdoctoral Fellow in the Institute of Space and Earth Information Scien
 
 ## News
 
-**2024.8**: Urban intelligent sensing series seminar based on GeoAI ！
+**2024.8**: Urban intelligent sensing series seminar based on GeoAI ！[Link](https://www.csgpc.org/detail/23727.html)
 ![Photo 1](/images/jiangzuo.jpg)
+
+<div class="research-item">
+    <img src="/images/jiangzuo.jpg" alt="Photo 1" width="300">
+</div>
+
 
 **2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/science/article/pii/) ！
 

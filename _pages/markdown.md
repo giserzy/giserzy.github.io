@@ -144,7 +144,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 **Contact:** 1376755287@qq.com
 
 ---
-
+<!-- 
 # 叶卿（Qing Ye） 
 
 **Introduction:** Currently enrolled in a Bachelor's program in Environmental Engineering, my primary focus is on the development and application of water treatment materials, specifically addressing dye and heavy metal pollution control. Additionally, I am engaged in research related to urban remote sensing, atmospheric chemical processes of trace gases, and soil remediation.
@@ -157,7 +157,7 @@ I specialize in urban planning and urban climate research, with a focus on explo
 
 **Contact:** xuanduli@yeah.com
 
----
+--- -->
 
 # 聂海如（HaiRu Nie）
 
