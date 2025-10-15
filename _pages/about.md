@@ -9,35 +9,63 @@ redirect_from:
 
 I am a Postdoctoral Fellow in the Institute of Space and Earth Information Science at the Chinese University of Hong Kong. My research focuses on using GeoAI and social sensing methods to study urban science, disaster response, and social inequality.
 
+## Motivation
+How do we quantitatively characterize the space you inhabit? Is your health risk the same as your neighbor's? My research is focused on answering these critical questions. We are pioneering a "Mobile Sensing and Environment Exposure Intelligent Computing Paradigm." This is a smarter, more granular computational methodology designed to overcome the challenges of insufficient "scale" and "precision" in traditional environmental health assessments.
+
+More Accurate Urban Understanding: By leveraging multi-modal geographic data (e.g., satellite remote sensing, social media, sensor networks) and advanced representation learning algorithms, we more precisely "read" and understand the city.
+
+Dynamic Individual-Scale Sensing: Utilizing intelligent computing methods, we achieve mobile trajectory reconstruction and real-time environmental data sensing at the individual level. This means we can capture every change in your environmental exposure—whether you are on the street, in a park, or indoors.
+
+By integrating a large-scale perspective with individual-level granularity, our research will ultimately be applied to address environmental inequity (or environmental justice) issues. We are committed to ensuring that environmental risks and resource allocation are achieved equitably across every community and for every individual.
+
+如何量化表征你所居住的空间？你的健康风险和你的邻居一样吗？ 我的研究正聚焦于回答这些关键问题。我们正在开创“移动性感知的环境暴露智能计算新范式”。这是一种更聪明、更精细的计算方法，旨在解决传统环境健康评估中“尺度”和“精度”不足的挑战。
+1. 基于多模态地理数据（如卫星遥感、社交媒体、传感器网络）和先进的表征学习算法，更精准地“读懂”城市。
+2. 利用智能计算方法，实现个体尺度下的移动轨迹重建和环境数据实时感知。这意味着我们能捕捉到你在街道、公园或室内环境中的每一次环境暴露变化。
+通过结合大尺度视野与个体粒度精度，我们的研究最终将用于解决环境不公平问题。我们致力于确保环境风险和资源分配在每一个社区、每一个人之间都能实现公正。
 ## News
+**2025.08**: One GNN driven urban sensing paper (How does spatial structure affect psychological restoration? A method based on graph neural networks and street view imagery) has been included as an <font color="red">**ESI highly cited paper (1%) & ESI hot cited paper (0.1%)**</font> Paper[Link](https://www.sciencedirect.com/science/article/abs/pii/S0169204624001701)！
+![Photo 1](/images/hot.png)
 
-**2024.8**: Urban intelligent sensing series seminar based on GeoAI ！[Link](https://www.csgpc.org/detail/23727.html)
-![Photo 1](/images/jiangzuo.jpg)
+**2025.08**:co-charir of city sensing and computing seminar at 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会
 
-<div class="research-item">
-    <img src="/images/jiangzuo.jpg" alt="Photo 1" width="300">
-</div>
+**2025.08**: PI, National Natural Science Foundation of China (NSFC) Young Scientists Fund (Grant No. 42501579) 
 
+**2025.07**: One traffic estimation research based on the satellite image and ground based station research has been publisheds at <font color="red">**International Journal of Digital Earth**</font> [Link](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2528640?src=exp-la) ！
 
-**2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/science/article/pii/) ！
+**2025.07**: One mobility- based exposure review research has been publisheds at <font color="red">**Science Bulletin**</font> [Link](https://www.sciencedirect.com/science/article/pii/S2095927325007364) ！
 
-**2024.10**: One LandUse Uncertainty related paper has been accepted by <font color="red">**Transaction in GIS**</font> [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13272) ！
+**2025.05**:co-charir of city sensing and computing seminar at 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会
 
-**2024.10**: One environment exposure related paper has been accepted by <font color="red">**Computers, Environment and Urban Systems**</font> [Link](https://www.sciencedirect.com/science/article/abs/pii/S0198971524001339) ！
+**2025.05**: One LLM driven urban sensing paper (Knowledge and Topology: A Two Layer Spatially Dependent Graph Neural Networks to Identify Urban Functions with Time-series Street View Image) has been included as an <font color="red">**ESI highly cited paper (1%)**</font> Paper[Link](https://www.sciencedirect.com/science/article/pii/S0924271623000680)！
+![Photo 1](/images/high.png)
+
+**2025.04**: <font color="red">**Bronze Medal**</font> at the 50th Geneva International Exhibition of Inventions (Vehicle-Kilometrage Estimation Using Remote Sensing Data and Deep Learning) [Link](https://www.geneve.com/en/events/50th-international-exhibition-of-inventions-geneva-half-a-century-of-creativity-and-innovation)！
+
+**2025.04**: One LLM driven crime dataset paper (An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China) has been accepted by <font color="red">**Scientific Data**</font> Data[Link](https://doi.org/10.6084/m9.figshare.28106939) Article[Link](https://www.nature.com/articles/s41597-025-04757-8) and has been indexed by National Earth Observation Data Center and 5000 download [News Link](https://mp.weixin.qq.com/s/MddBOoAIlRTiAHihYg1fNg)！
 
 **2025.01**: One collaboration emergency management paper has been accepted by <font color="red">**Cleaner Engineering and Technology**</font> [Link](https://www.sciencedirect.com/science/article/pii/S2666790825000151) ！
 
 **2025.01**: One GeoAI review paper has been accepted by <font color="red">**地球信息科学学报**</font> [Link](https://mp.weixin.qq.com/s/hkgMRSZT5Vwz95avhEasiQ) ！
 
-**2025.04**: One LLM driven crime dataset paper (An LLM driven dataset on the spatiotemporal distributions of street and neighborhood crime in China) has been accepted by <font color="red">**Scientific Data**</font> Data[Link](https://doi.org/10.6084/m9.figshare.28106939) Article[Link](https://www.nature.com/articles/s41597-025-04757-8) and has been indexed by National Earth Observation Data Center and 5000 download [News Link](https://mp.weixin.qq.com/s/MddBOoAIlRTiAHihYg1fNg)！
+**2024.11**: PI, Open Research Fund, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University <font color="red">**No. 24I04**</font> [Link](https://liesmars.whu.edu.cn/info/1058/62769.htm) ！
 
-**2025.05**:co-charir of city sensing and computing seminar at 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会
+**2024.10**: One LandUse Uncertainty related paper has been accepted by <font color="red">**Transaction in GIS**</font> [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.13272) ！
 
-**2025.05**: One LLM driven urban sensing paper (Knowledge and Topology: A Two Layer Spatially Dependent Graph Neural Networks to Identify Urban Functions with Time-series Street View Image) has been included as an <font color="red">**ESI highly cited paper (1%)**</font> Paper[Link](https://www.sciencedirect.com/science/article/pii/S0924271623000680)！
+**2024.10**: One environment exposure related paper has been accepted by <font color="red">**Computers, Environment and Urban Systems**</font> [Link](https://www.sciencedirect.com/science/article/abs/pii/S0198971524001339) ！
 
-**2025.07**: One traffic estimation research based on the satellite image and ground based station research has been publisheds at <font color="red">**International Journal of Digital Earth**</font> [Link](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2528640?src=exp-la) ！
+**2024.9**: One SVI related paper has been accepted by <font color="red">**ISPRS Journal of Photogrammetry and Remote Sensing**</font> [Link](https://www.sciencedirect.com/science/article/pii/) ！
 
-**2025.07**: One mobility- based exposure review research has been publisheds at <font color="red">**Science Bulletin**</font> [Link](https://www.sciencedirect.com/science/article/pii/S2095927325007364) ！
+**2024.08**: <font color="red">**Guest Associate Editor**</font>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing! [Link](https://www.grss-ieee.org/wp-content/uploads/2024/03/cfp_Street-View-Imagery-and-GeoAI.pdf)
+![Photo 1](/images/si.png)
+
+**2024.8**: Urban intelligent sensing series seminar based on GeoAI ！[Link](https://www.csgpc.org/detail/23727.html)
+![Photo 1](/images/jiangzuo.jpg)
+
+**2024.6**: Awarded the China-U.S. Scholars Program (CUSP) Grant for Conference Participation and Research Travel by the Institute of International Education (IIE)
+
+<!-- <div class="research-item">
+    <img src="/images/jiangzuo.jpg" alt="Photo 1" width="300">
+</div> -->
 
 <!-- **2025.08**:co-charir of city sensing and computing seminar at 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会  --> 
 
@@ -184,7 +212,7 @@ Whether you have questions, suggestions, or are interested in collaboration, I w
 ## Other Contact Methods
 
 - **Email**: [sggzhang@whu.edu.cn](mailto:sggzhang@whu.edu.cn)
-- **GitHub**: [yemanzhongting](https://github.com/yemanzhongting)
+- **GitHub**: [giserzy](https://github.com/giserzy)
 - **RedBook**: [城市感知计算](https://www.linkedin.com/in/your-profile)
 
 Thank you for your interest and support! I'll respond to your messages as soon as possible.
