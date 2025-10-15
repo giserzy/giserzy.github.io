@@ -19,8 +19,11 @@ Dynamic Individual-Scale Sensing: Utilizing intelligent computing methods, we ac
 By integrating a large-scale perspective with individual-level granularity, our research will ultimately be applied to address environmental inequity (or environmental justice) issues. We are committed to ensuring that environmental risks and resource allocation are achieved equitably across every community and for every individual.
 
 如何量化表征你所居住的空间？你的健康风险和你的邻居一样吗？ 我的研究正聚焦于回答这些关键问题。我们正在开创“移动性感知的环境暴露智能计算新范式”。这是一种更聪明、更精细的计算方法，旨在解决传统环境健康评估中“尺度”和“精度”不足的挑战。
+
 1. 基于多模态地理数据（如卫星遥感、社交媒体、传感器网络）和先进的表征学习算法，更精准地“读懂”城市。
+
 2. 利用智能计算方法，实现个体尺度下的移动轨迹重建和环境数据实时感知。这意味着我们能捕捉到你在街道、公园或室内环境中的每一次环境暴露变化。
+
 通过结合大尺度视野与个体粒度精度，我们的研究最终将用于解决环境不公平问题。我们致力于确保环境风险和资源分配在每一个社区、每一个人之间都能实现公正。
 ## News
 **2025.08**: One GNN driven urban sensing paper (How does spatial structure affect psychological restoration? A method based on graph neural networks and street view imagery) has been included as an <font color="red">**ESI highly cited paper (1%) & ESI hot cited paper (0.1%)**</font> Paper[Link](https://www.sciencedirect.com/science/article/abs/pii/S0169204624001701)！
