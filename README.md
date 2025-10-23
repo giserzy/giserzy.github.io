@@ -1,5 +1,5 @@
 Academic Pages
-**Here is Yan Zhang's academic websites.**
+**Here is Yan's academic websites.**
 
 looking forward to your connection!
 
