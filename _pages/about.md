@@ -10,7 +10,7 @@ redirect_from:
 I am a Postdoctoral Fellow in the Institute of Space and Earth Information Science at the Chinese University of Hong Kong. My research focuses on using GeoAI and social sensing methods to study urban science, disaster response, and social inequality.
 
 ## Motivation
-How do we quantitatively characterize the space you inhabit? Is your health risk the same as your neighbor's? My research is focused on answering these critical questions. We are pioneering a "Mobile Sensing and Environment Exposure Intelligent Computing Paradigm." This is a smarter, more granular computational methodology designed to overcome the challenges of insufficient "scale" and "precision" in traditional environmental health assessments.
+How do we quantitatively characterize the space you inhabit? Is your health risk the same as your neighbor's? My research is focused on answering these critical questions. We are pioneering a "**Mobile Sensing and Environment Exposure Intelligent Computing Paradigm**." This is a smarter, more granular computational methodology designed to overcome the challenges of insufficient "**scale**" and "**precision**" in traditional environmental health assessments.
 
 More Accurate Urban Understanding: By leveraging multi-modal geographic data (e.g., satellite remote sensing, social media, sensor networks) and advanced representation learning algorithms, we more precisely "read" and understand the city.
 

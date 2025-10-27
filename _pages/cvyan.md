@@ -210,17 +210,6 @@ An LLM driven dataset on the spatiotemporal distributions of street and neighbor
 %申请号 2024118970542
 %2023106131053
 
-
-% \section{\faClipboard\ Under Review Paper}
-
-% \datedsubsection{1. \textbf{How Drivers' Perceived Environmental Features Influence Traffic Speed: Integrating Depth Information and SHAP Value}, First Author}
-% {{} Travel Behaviour and Society}
-% {IF=5.2, SSCI \textbf{Q1}} 
-
-% \datedsubsection{2. \textbf{Human mobility reduces inequality in urban green exposure}, First Author}
-% {The Lancet Planetary Health}
-% {IF=14.7, SCI \textbf{Q1}} 
-
 \section{\faUniversity\ Awards and Honors}
 
 \datedline{\textit{Ministry of Education}, National Scholarship for Ph.D. Students, {\color{red}{\textbf{Top 3\%}}}}{December 2021}
@@ -278,7 +267,7 @@ An LLM driven dataset on the spatiotemporal distributions of street and neighbor
 \item \textbf{Environmental Health and Inequality:} Understand urban human-social systems based on spatial-temporal big data.
 \end{itemize}
 
-
+{% raw %}
 \section{\faTrophy\ Academic Engagements}
 \datedline{\textit{{\color{red}Guest Chair Editor}}, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Special Issue: Street View Imagery and GeoAI, IF: 5.5)}{{SCI Q1}}
 
@@ -356,6 +345,8 @@ An LLM driven dataset on the spatiotemporal distributions of street and neighbor
 \datedline{\textit{Reviewer}, IEEE Transactions on Intelligent Transportation Systems}{{SCI Q1}}
 
 \datedline{\textit{Reviewer}, Journal of Remote Sensing}{{SCI Q1}}
+
+{% endraw %}
 
 \section{\faBook\ Invited Talks}
 
