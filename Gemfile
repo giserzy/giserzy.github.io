@@ -14,5 +14,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 # Windows 性能优化
+gem 'faraday-retry'
+gem 'wdm', '>= 0.1.1' if Gem.win_platform?
 # gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin], :require => false
