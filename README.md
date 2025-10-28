@@ -1,9 +1,12 @@
-Academic Pages
-**Here is Yan's academic websites.**
+# Academic Pages
 
-looking forward to your connection!
+Hi there! 👋 I'm Yan, and this is my academic website.
 
-*www.giserzhang.xyz*
+Here you'll find information about my research, publications, teaching, and professional activities. I'm always excited to connect with fellow researchers and collaborators.
+
+**Website:** [www.giserzhang.xyz](https://www.giserzhang.xyz)
+
+Looking forward to hearing from you!
 
 <!-- # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
