@@ -24,7 +24,8 @@ By integrating a large-scale perspective with individual-level granularity, our 
 通过结合大尺度视野与个体粒度精度，我们的研究最终将用于解决环境不公平问题。我们致力于确保环境风险和资源分配在每一个社区、每一个人之间都能实现公正。 -->
 
 ## News
-**2025.11**: Our chinese crime related dataset has been Awarded as the  <font color="red">**Top 10 Most Valuable Annual Dataset** (Spatio-temporal Distribution Dataset of Street and Community Crime in China Driven by Large Language Models) by the national earth observation data center. News[Link](https://noda.ac.cn/news/showNewsById?id=6916eb157575fb4d046058df)！
+**2025.11**: Our chinese crime related dataset has been Awarded as the  <font color="red">**Top 10 Most Valuable Annual Dataset**</font> (Spatio-temporal Distribution Dataset of Street and Community Crime in China Driven by Large Language Models) by the national earth observation data center. News![Link](https://noda.ac.cn/news/showNewsById?id=6916eb157575fb4d046058df)！
+![Photo 1](/images/dataset.jpg)
 
 **2025.11**: One Street View Image related paper (How drivers’ depth perception of environmental features influence traffic speed?) has been accepted by Geo-spatial Information Science (GSIS) ！
 
