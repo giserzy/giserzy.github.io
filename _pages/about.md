@@ -31,6 +31,9 @@ By integrating a large-scale perspective with individual-level granularity, our 
 
 **2025.11**: One Street View Image related paper (How drivers’ depth perception of environmental features influence traffic speed?) has been accepted by **Geo-spatial Information Science** (GSIS) ！
 
+**2025.11**: 🎉 1000 Citations! A milestone that marks my five-year academic journey. Grateful for every scholar who cited my work, helping spread the flame of knowledge. Onward and upward!
+![Photo 1](/images/Citation.jpg)
+
 **2025.08**: One GNN driven urban sensing paper (How does spatial structure affect psychological restoration? A method based on graph neural networks and street view imagery) has been included as an **<font color="red">ESI highly cited paper (1%) & ESI hot cited paper (0.1%)</font>** Paper[Link](https://www.sciencedirect.com/science/article/abs/pii/S0169204624001701)！
 ![Photo 1](/images/hot.png)
 
