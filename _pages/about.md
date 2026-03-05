@@ -26,6 +26,10 @@ By integrating a large-scale perspective with individual-level granularity, our 
 通过结合大尺度视野与个体粒度精度，我们的研究最终将用于解决环境不公平问题。我们致力于确保环境风险和资源分配在每一个社区、每一个人之间都能实现公正。 -->
 
 ## News
+**2026.01**: One mobility-based seasonal heat exposure related paper (Quantifying mobility-based seasonal individual heat exposure and the NEAP using multi-source spatiotemporal data) has been accepted by **Urban Climate**！[Link](https://www.sciencedirect.com/science/article/pii/S2212095526000593)
+
+**2026.02**: One mobility and environmental exposure inequality related paper (Social media big data reveals how mobility reshapes human environmental exposure inequality) has been accepted by **Landscape and Urban Planning** (LAUP)！[Link](https://www.sciencedirect.com/science/article/pii/S0169204626000241?dgcid=rss_sd_all)
+
 **2026.02**: One Street View Image and Remote Sensing related paper (Multi-frequency street-level urban noise modeling and mapping through street view and remote sensing image fusion) has been accepted by **Computers, Environment and Urban Systems** (CEUS)！[Link](https://www.sciencedirect.com/science/article/pii/S0198971526000037)
 
 **2026.1**: I was Awarded as the  **<font color="red">Travel Award</font>** by the ISPRS International Journal of Geo-Information (two awardees every year). News [Link](https://www.mdpi.com/journal/ijgi/awards/2637)！
