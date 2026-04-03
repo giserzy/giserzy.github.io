@@ -28,6 +28,9 @@ By integrating a large-scale perspective with individual-level granularity, our 
 ## News
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners’ experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
+**2026.04**: One first author paper (Quantitative Identification of Mixed Urban Functions: A Probabilistic Approach Based on Physical and Social Sensing Data) has been recognized as a **<font color="red"> top cited article </font>** in Transactions in GIS！
+![Photo 1](/images/certificatestgis.png)
+
 
 **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners’ experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png)
