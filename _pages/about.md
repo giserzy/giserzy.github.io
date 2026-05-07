@@ -29,12 +29,12 @@ By integrating a large-scale perspective with individual-level granularity, our 
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners’ experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
 
-**2026.05**: Awarded the <font color="red">**RGC Junior Research Fellow Scheme**</font> by the Research Grants Council (RGC) to conduct postdoctoral research at the Institute of Space and Earth Information Science, The Chinese University of Hong Kong (CUHK). The fellowship provides a total funding of HK$1,290,000 for three years (HK$430,000 per annum, inclusive of conference and research-related travel allowance).
+**2026.05**: Awarded the **<font color="red">RGC Junior Research Fellow Scheme</font>** by the Research Grants Council (RGC) to conduct postdoctoral research at the Institute of Space and Earth Information Science, The Chinese University of Hong Kong (CUHK). The fellowship provides a total funding of HK$1,290,000 for three years (HK$430,000 per annum, inclusive of conference and research-related travel allowance).
 ![Photo 1](/images/rgc.png)
 
-**2026.04**: One AlphaEarth Geospatial Foundation Model related paper (Cross-city traffic noise modeling and inequality analysis via AlphaEarth Geospatial Foundation Models) has been accepted by <font color="red">**Transportation Research Part D: Transport and Environment**</font>！
+**2026.04**: One AlphaEarth Geospatial Foundation Model related paper (Title: Cross-city traffic noise modeling and inequality analysis via AlphaEarth Geospatial Foundation Models) has been accepted by **<font color="red">Transportation Research Part D: Transport and Environment</font>**！
 
-**2026.04**: One vehicle solar energy harvesting related paper (Assessing vehicle solar energy harvesting using GPS trajectories and street imagery) has been accepted by <font color="red">**Transportation Research Part D: Transport and Environment**</font>！
+**2026.04**: One vehicle solar energy harvesting related paper (Title: Assessing vehicle solar energy harvesting using GPS trajectories and street imagery) has been accepted by **<font color="red">Transportation Research Part D: Transport and Environment</font>**！
 
 **2026.04**: One first author paper (Quantitative Identification of Mixed Urban Functions: A Probabilistic Approach Based on Physical and Social Sensing Data) has been recognized as a **<font color="red"> top cited article </font>** in Transactions in GIS！
 ![Photo 1](/images/certificatestgis.png)
