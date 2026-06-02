@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the Institute of Space and Earth Information Science at the Chinese University of Hong Kong. My research focuses on using GeoAI and social sensing methods to study urban science, disaster response, and social inequality.
+I am a RGC Junior Research Fellow (JRFS) in the Institute of Space and Earth Information Science at the Chinese University of Hong Kong. My research focuses on using GeoAI and social sensing methods to study urban science, disaster response, and social inequality.
 
 <!-- %开创移动性感知的环境暴露智能计算范式，基于GeoAI技术对城市理解的更准确，对个体健康评估的更动态，引领大范围多尺度个体粒度环境正义研究新方向。 -->
 
@@ -25,9 +25,31 @@ By integrating a large-scale perspective with individual-level granularity, our 
 2. 利用智能计算方法，实现个体尺度下的移动轨迹重建和环境数据实时感知。这意味着我们能捕捉到你在街道、公园或室内环境中的每一次环境暴露变化。
 通过结合大尺度视野与个体粒度精度，我们的研究最终将用于解决环境不公平问题。我们致力于确保环境风险和资源分配在每一个社区、每一个人之间都能实现公正。 -->
 
+## Special Issue
+**Transactions in Urban Data, Science, and Technology, Special Issue: [Spatio-Temporal Data Mining with Social Sensing: Methods and Applications](https://journals.sagepub.com/page/tus/calls-for-papers/data-mining-with-social-sensing)**  
+Guest Editors: Dr. Zhenghong Wang, Dr. Sijie Ruan, Dr. Weiwei Jiang, Dr. Shifen Cheng, Dr. Yan Zhang, and Dr. Meiliu Wu  
+Full paper submission deadline: **<font color="red">30 September 2026</font>**
+
+**Remote Sensing, Special Issue: [Urban Sprawl and Urban Sustainability: High-Resolution Remote-Sensing Image Analytics](https://www.mdpi.com/journal/remotesensing/special_issues/F7L94D952D)**  
+Guest Editors: Dr. Runyu Fan, Prof. Dr. Xuecao Li, and Dr. Yan Zhang  
+Submission deadline: **<font color="red">30 June 2026</font>**
+
+**Remote Sensing, Special Issue: [Remote Sensing Applied in Urban Environment Monitoring](https://www.mdpi.com/journal/remotesensing/special_issues/393RK7VQEU)**  
+Guest Editors: Dr. Peixiao Wang, Dr. Yan Zhang, and Dr. Tao Hu  
+Submission deadline: **<font color="red">30 November 2026</font>**
+
+<!-- Note: The MDPI page checked on 2026-06-02 currently displays "Submission deadline 15 May 2026" for this Special Issue. Please confirm whether the 30 November 2026 extension has been updated/approved before publishing. -->
+
+**IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Special Issue: [Street View Imagery and GeoAI](https://www.grss-ieee.org/wp-content/uploads/2024/03/cfp_Street-View-Imagery-and-GeoAI.pdf)**  
+Guest Editors: Dr. Yan Zhang, Prof. Mei-Po Kwan, Prof. Nengcheng Chen, Prof. Marco Helbich, and Dr. PeiXiao Wang  
+Submission system opening: **1 June 2024**  
+Submission system closing: **<font color="red">~~31 December 2024~~</font>**
+
+
 ## News
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners’ experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
+**2026.06**: One cllabrative paper has been recognized as a **<font color="red"> 2026 The Innovation Geoscience Award </font>** in Innovation Geoscience.
 
 **2026.05**: One cllabrative paper has been recognized as a **<font color="red"> top article </font>** in 地球信息科学学报！
 ![Photo 1](/images/dqxxxb.png)
