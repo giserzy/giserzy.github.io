@@ -1,0 +1,17 @@
+# 中文导航菜单
+
+main:
+  - title: "发表论文"
+    url: /zh/publications/
+
+  - title: "科研项目"
+    url: /zh/portfolio/
+
+  - title: "个人简历"
+    url: /zh/cv/
+
+  - title: "GISChat学人"
+    url: /zh/markdown/
+
+  - title: "最新动态"
+    url: /zh/year-archive/

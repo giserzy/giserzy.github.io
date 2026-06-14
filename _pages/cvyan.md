@@ -50,7 +50,7 @@
 \textit{Phd} in Cartography and Geographic Information Systems
 Advisor: Professor Neng-Cheng Chen
 
-\datedsubsection{\textbf{Peking University}, Beijing,China}{July 2023 -- Dec 2023}
+\datedsubsection{\textbf{Peking University}, Beijing,China}{2023}
 \textit{Visiting Scholars} in Cartography and Geographic Information Systems
 Advisor: Professor Yu Liu
 
@@ -62,7 +62,7 @@ Advisor: Filip Biljecki
 
 
 \section{\faLaptop\ Career}
-\datedsubsection{\textbf{Chinese University of Hong Kong}, Hong Kong, China}{Dec 2023 -- Now}
+\datedsubsection{\textbf{Chinese University of Hong Kong}, Hong Kong, China}{2023 -- Now}
 \textit{Postdoctoral Fellow} in the Institute of Space and Earth Information Science
 Advisor: Mei-Po Kwan
 

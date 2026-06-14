@@ -7,17 +7,164 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
+          {% if page.lang == 'zh' %}
+            {% for link in site.data.navigation-zh.main %}
+              {% if link.url contains 'http' %}
+                {% assign domain = '' %}
               {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
+                {% assign domain = base_path %}
+              {% endif %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          {% else %}
+            {% for link in site.data.navigation.main %}
+              {% if link.url contains 'http' %}
+                {% assign domain = '' %}
+              {% else %}
+                {% assign domain = base_path %}
+              {% endif %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
+
+<style>
+.lang-switcher {
+  position: fixed;
+  top: 12px;
+  right: 18px;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  gap: 0;
+  background: rgba(255,255,255,0.95);
+  border: 1.5px solid #c8c8c8;
+  border-radius: 20px;
+  padding: 3px 5px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.lang-switcher a {
+  display: inline-block;
+  padding: 3px 11px;
+  border-radius: 14px;
+  color: #444;
+  text-decoration: none;
+  transition: background 0.18s, color 0.18s;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+.lang-switcher a:hover {
+  background: #f0f0f0;
+  color: #222;
+}
+.lang-switcher a.active {
+  background: #1a6fa8;
+  color: #fff !important;
+  font-weight: 700;
+}
+.lang-switcher .lang-divider {
+  color: #ccc;
+  font-size: 15px;
+  padding: 0 2px;
+  user-select: none;
+}
+</style>
+
+<div class="lang-switcher" id="lang-switcher">
+  <a href="#" id="lang-en" onclick="switchLang('en'); return false;">English</a>
+  <span class="lang-divider">|</span>
+  <a href="#" id="lang-zh" onclick="switchLang('zh'); return false;">中文</a>
+</div>
+
+<script>
+(function() {
+  // Page-to-page URL mapping (en <-> zh)
+  var routeMap = {
+    // EN -> ZH
+    '/':            '/zh/',
+    '/about/':      '/zh/',
+    '/publications/': '/zh/publications/',
+    '/portfolio/':  '/zh/portfolio/',
+    '/cv/':         '/zh/cv/',
+    '/markdown/':   '/zh/markdown/',
+    '/year-archive/': '/zh/year-archive/',
+    // ZH -> EN
+    '/zh/':             '/',
+    '/zh/about/':       '/',
+    '/zh/publications/': '/publications/',
+    '/zh/portfolio/':   '/portfolio/',
+    '/zh/cv/':          '/cv/',
+    '/zh/markdown/':    '/markdown/',
+    '/zh/year-archive/': '/year-archive/',
+  };
+
+  function getCurrentLang() {
+    var path = window.location.pathname;
+    // Normalize: remove baseurl if any
+    if (path.match(/^\/zh\//)) return 'zh';
+    if (path === '/zh' || path === '/zh/') return 'zh';
+    return 'en';
+  }
+
+  function getCounterpartUrl(targetLang) {
+    var path = window.location.pathname;
+    // Ensure trailing slash
+    if (!path.endsWith('/')) path = path + '/';
+
+    var mapped = routeMap[path];
+    if (mapped) return mapped;
+
+    // Generic fallback: zh->en strip /zh/, en->zh prepend /zh
+    if (targetLang === 'zh') {
+      if (!path.startsWith('/zh/')) return '/zh' + path;
+    } else {
+      if (path.startsWith('/zh/')) return path.replace('/zh', '');
+    }
+    return targetLang === 'zh' ? '/zh/' : '/';
+  }
+
+  function updateSwitcherState(lang) {
+    var enBtn = document.getElementById('lang-en');
+    var zhBtn = document.getElementById('lang-zh');
+    if (!enBtn || !zhBtn) return;
+    if (lang === 'zh') {
+      zhBtn.classList.add('active');
+      enBtn.classList.remove('active');
+    } else {
+      enBtn.classList.add('active');
+      zhBtn.classList.remove('active');
+    }
+    // Update hrefs
+    enBtn.href = getCounterpartUrl('en');
+    zhBtn.href = getCounterpartUrl('zh');
+  }
+
+  window.switchLang = function(targetLang) {
+    var url = getCounterpartUrl(targetLang);
+    window.location.href = url;
+  };
+
+  // On DOM ready
+  document.addEventListener('DOMContentLoaded', function() {
+    var lang = getCurrentLang();
+    updateSwitcherState(lang);
+    // Make hrefs actual links (also works without JS click)
+    var enBtn = document.getElementById('lang-en');
+    var zhBtn = document.getElementById('lang-zh');
+    if (enBtn) { enBtn.onclick = null; enBtn.href = getCounterpartUrl('en'); }
+    if (zhBtn) { zhBtn.onclick = null; zhBtn.href = getCounterpartUrl('zh'); }
+  });
+
+  // Also run immediately in case DOMContentLoaded already fired
+  var lang = getCurrentLang();
+  setTimeout(function() { updateSwitcherState(lang); }, 0);
+})();
+</script>
