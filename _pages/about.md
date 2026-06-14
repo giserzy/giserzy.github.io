@@ -43,7 +43,7 @@ Submission deadline: **<font color="red">30 November 2026</font>**
 **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Special Issue: [Street View Imagery and GeoAI](https://www.grss-ieee.org/wp-content/uploads/2024/03/cfp_Street-View-Imagery-and-GeoAI.pdf)**  
 Guest Editors: Dr. Yan Zhang, Prof. Mei-Po Kwan, Prof. Nengcheng Chen, Prof. Marco Helbich, and Dr. PeiXiao Wang  
 Submission system opening: **1 June 2024**  
-Submission system closing: **<font color="red">~~31 December 2024~~</font>**
+Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 
 
 ## News
