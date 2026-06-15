@@ -73,6 +73,13 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
+# Chinese author profile for bilingual sidebar
+author_zh:
+  name             : "张岩"
+  bio              : "我的研究专注于利用地理人工智能（GeoAI）和社会感知方法，探究城市科学、灾害响应与社会不平等问题。"
+  location         : "中国香港"
+  employer         : "香港中文大学太空与地球信息科学研究所"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
