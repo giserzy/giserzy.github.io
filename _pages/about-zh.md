@@ -8,7 +8,7 @@ redirect_from:
   - /zh/about.html
 ---
 
-我是香港中文大学太空与地球信息科学研究所的优质教育基金（RGC）青年研究学人（JRFS）。我的研究专注于利用**地理人工智能（GeoAI）**和**社会感知方法**，探究城市科学、灾害响应与社会不平等问题。
+我是香港中文大学太空与地球信息科学研究所的港府新晋学者计划研究员，博士后（JRFS）。我的研究专注于利用**地理人工智能（GeoAI）**和**社会感知方法**，探究城市科学、灾害响应与社会不平等问题。
 
 <!-- %开创移动性感知的环境暴露智能计算范式，基于GeoAI技术对城市理解的更准确，对个体健康评估的更动态，引领大范围多尺度个体粒度环境正义研究新方向。 -->
 
@@ -25,7 +25,7 @@ redirect_from:
 ## 特刊征稿
 
 **《Transactions in Urban Data, Science, and Technology》特刊：[时空数据挖掘与社会感知：方法与应用](https://journals.sagepub.com/page/tus/calls-for-papers/data-mining-with-social-sensing)**  
-客座编委：王正宏博士、阮思捷博士、蒋伟伟博士、程诗奋博士、张岩博士、吴美柳博士  
+<!-- 客座编委：王正宏博士、阮思捷博士、蒋伟伟博士、程诗奋博士、张岩博士、吴美柳博士   -->
 全文投稿截止日期：**<font color="red">2026年9月30日</font>**
 
 **《Remote Sensing》特刊：[城市蔓延与城市可持续性：高分辨率遥感影像分析](https://www.mdpi.com/journal/remotesensing/special_issues/F7L94D952D)**  
@@ -52,7 +52,7 @@ redirect_from:
 **2026.05**: 第一作者论文（混合城市功能的定量识别：基于物理感知与社会感知数据的概率方法）在 Transactions in GIS 荣获 **<font color="red">被引最多文章</font>** 称号！
 ![Photo 1](/images/tgisd.png)
 
-**2026.05**: 荣获香港研究资助局（RGC）**<font color="red">青年研究学人计划（JRFS）</font>**资助，在香港中文大学太空与地球信息科学研究所开展博士后研究。三年总资助额港币1,290,000元（每年港币430,000元，含会议及科研差旅津贴）。
+**2026.05**: 荣获香港研究资助局（RGC）**<font color="red">新晋学者计划（JRFS）</font>**资助，在香港中文大学太空与地球信息科学研究所开展博士后研究。三年总资助额港币1,290,000元（每年港币430,000元，含会议及科研差旅津贴）。
 ![Photo 1](/images/rgc.png)
 
 **2026.04**: AlphaEarth地理基础模型相关论文（跨城市交通噪声建模与不平等分析）被 **<font color="red">Transportation Research Part D: Transport and Environment</font>** 接收！
@@ -182,7 +182,7 @@ redirect_from:
 
 - 教育部博士研究生国家奖学金（前3%），2021年 & 2022年
 - 国家留学基金委出国留学奖学金，2021年
-- 武汉大学十大励志研究生，2023年
+<!-- - 武汉大学十大励志研究生，2023年 -->
 
 更多详情，请查看[完整简历](/zh/cv/)。
 
