@@ -86,9 +86,7 @@
 
 <script>
 (function() {
-  // Page-to-page URL mapping (en <-> zh)
   var routeMap = {
-    // EN -> ZH
     '/':            '/zh/',
     '/about/':      '/zh/',
     '/publications/': '/zh/publications/',
@@ -96,7 +94,6 @@
     '/cv/':         '/zh/cv/',
     '/markdown/':   '/zh/markdown/',
     '/year-archive/': '/zh/year-archive/',
-    // ZH -> EN
     '/zh/':             '/',
     '/zh/about/':       '/',
     '/zh/publications/': '/publications/',
@@ -108,7 +105,6 @@
 
   function getCurrentLang() {
     var path = window.location.pathname;
-    // Normalize: remove baseurl if any
     if (path.match(/^\/zh\//)) return 'zh';
     if (path === '/zh' || path === '/zh/') return 'zh';
     return 'en';
@@ -116,13 +112,9 @@
 
   function getCounterpartUrl(targetLang) {
     var path = window.location.pathname;
-    // Ensure trailing slash
     if (!path.endsWith('/')) path = path + '/';
-
     var mapped = routeMap[path];
     if (mapped) return mapped;
-
-    // Generic fallback: zh->en strip /zh/, en->zh prepend /zh
     if (targetLang === 'zh') {
       if (!path.startsWith('/zh/')) return '/zh' + path;
     } else {
@@ -142,7 +134,6 @@
       enBtn.classList.add('active');
       zhBtn.classList.remove('active');
     }
-    // Update hrefs
     enBtn.href = getCounterpartUrl('en');
     zhBtn.href = getCounterpartUrl('zh');
   }
@@ -152,18 +143,15 @@
     window.location.href = url;
   };
 
-  // On DOM ready
   document.addEventListener('DOMContentLoaded', function() {
     var lang = getCurrentLang();
     updateSwitcherState(lang);
-    // Make hrefs actual links (also works without JS click)
     var enBtn = document.getElementById('lang-en');
     var zhBtn = document.getElementById('lang-zh');
     if (enBtn) { enBtn.onclick = null; enBtn.href = getCounterpartUrl('en'); }
     if (zhBtn) { zhBtn.onclick = null; zhBtn.href = getCounterpartUrl('zh'); }
   });
 
-  // Also run immediately in case DOMContentLoaded already fired
   var lang = getCurrentLang();
   setTimeout(function() { updateSwitcherState(lang); }, 0);
 })();
