@@ -42,6 +42,7 @@ redirect_from:
 
 
 ## 最新动态
+**2026.07**: 我将会加入 discover social science and health 期刊作为 **<font color="red">编委</font>**!
 
 **2026.06**: 合作论文（全球干旱-洪涝突变：时空格局、驱动因素与预测）荣获 **<font color="red">2026年度The Innovation Geoscience奖</font>**！
 ![Photo 1](/images/innovation.jpg)

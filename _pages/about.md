@@ -49,6 +49,8 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 ## News
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners’ experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
+**2026.07**: I will join discover social science and health as a **<font color="red"> editor board </font>**!
+
 **2026.06**: One cllabrative paper (Global drought-flood abrupt alternation: Spatio-temporal patterns, drivers, and projections) has been recognized as a **<font color="red"> 2026 The Innovation Geoscience Award </font>** in Innovation Geoscience.
 ![Photo 1](/images/innovation.jpg)
 
