@@ -29,7 +29,7 @@ redirect_from:
 全文投稿截止日期：**<font color="red">2026年9月30日</font>**
 
 **《Remote Sensing》特刊：[城市蔓延与城市可持续性：高分辨率遥感影像分析](https://www.mdpi.com/journal/remotesensing/special_issues/F7L94D952D)**  
-客座编委：范润宇博士、李雪草教授、张岩博士  
+客座编委：樊润宇博士、李雪草教授、张岩博士  
 投稿截止日期：**<font color="red">2026年6月30日</font>**
 
 **《Remote Sensing》特刊：[遥感在城市环境监测中的应用](https://www.mdpi.com/journal/remotesensing/special_issues/393RK7VQEU)**  
@@ -42,7 +42,7 @@ redirect_from:
 
 
 ## 最新动态
-**2026.07**: 我将会加入 discover social science and health 期刊作为 **<font color="red">编委</font>**!
+**2026.07**: 我将会加入 Discover Social Science and Health 期刊作为 **<font color="red">编委</font>**!
 
 **2026.06**: 合作论文（全球干旱-洪涝突变：时空格局、驱动因素与预测）荣获 **<font color="red">2026年度The Innovation Geoscience奖</font>**！
 ![Photo 1](/images/innovation.jpg)
