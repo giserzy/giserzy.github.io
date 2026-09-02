@@ -42,7 +42,13 @@ redirect_from:
 
 
 ## 最新动态
-**2026.07**: 我将会加入 Discover Social Science and Health 期刊作为 **<font color="red">编委</font>**!
+**2026.09**: 受邀在**东京大学"数字空间社会"（DSS）例会**上作学术报告，题目："城市表征学习与人类移动研究"。
+
+**2026.09**: 在**第一届国际地球科学在线会议（IOCEA 2026）**第一分会场"地球科学中的人工智能与大数据"作**主旨报告**，题目："地理空间表征学习与人类移动建模研究"。
+
+**2026.09**: 两篇合作论文发表于 **Journal of Transport Geography**："超越相关：揭示街景与休闲步行/骑行之间的因果联系"和"理解骑行者的路径选择：一种基于层次化对抗逆向强化学习的行为画像方法"。
+
+**2026.07**: 我加入 Discover Social Science and Health 期刊，担任**<font color="red">编委成员</font>**！[Editorial Board](https://link.springer.com/journal/44155/editorial-board)
 
 **2026.06**: 合作论文（全球干旱-洪涝突变：时空格局、驱动因素与预测）荣获 **<font color="red">2026年度The Innovation Geoscience奖</font>**！
 ![Photo 1](/images/innovation.jpg)
@@ -176,6 +182,8 @@ redirect_from:
 1. Zhang Y, Kwan M, Ma H. 基于噪音投诉数据的噪音暴露感知及不平等研究——视觉-语言混合方法. *Applied Geography*, 2024. (IF=4.0, SSCI Q1)
 2. Zhang Y, Liu P, Biljecki F. 知识与拓扑：时序街景影像城市功能识别的双层空间依赖图神经网络. *ISPRS Journal of Photogrammetry and Remote Sensing*, 2023. (IF=12.7, SCI Q1, <span class="red-text">ESI前3%</span>)
 3. Zhang Y, Li Y, Zhang F. 基于街景影像与混合语义图的多层级城市街道表征. *ISPRS Journal of Photogrammetry and Remote Sensing*, 2024. (IF=10.6, SCI Q1, <span class="red-text">ESI前3%</span>)
+4. Xu L, Shi H, Lyu W, Zhang Y, Zhao H. 超越相关：揭示街景与休闲步行/骑行之间的因果联系. *Journal of Transport Geography*, 2026, 136: 104789.
+5. Ma X, Zhao Z, Zhang C, Liu D, Cui Q, Zhang Y, Gong Y, Liu Y. 理解骑行者路径选择：行为画像的层次化对抗逆向强化学习方法. *Journal of Transport Geography*, 2026, 136: 104779.
 
 [查看完整发表列表](/zh/publications/)
 

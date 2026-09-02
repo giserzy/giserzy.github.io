@@ -49,7 +49,14 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 ## News
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners’ experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
-**2026.07**: I will join Discover Social Science and Health as a **<font color="red"> Editor Board Member </font>**!
+
+**2026.09**: Invited Speaker at the **Digital Spatial Society (DSS) Regular Meeting, The University of Tokyo**, presenting "**Urban Representation Learning and Human Mobility Research**".
+
+**2026.09**: Keynote Speaker at the **1st International Online Conference on Earth Science (IOCEA 2026)**, Session 1: *AI and Big Data in Earth Science*, presenting "**Geospatial Representation Learning and Human Mobility Modeling Research**".
+
+**2026.09**: Two collaborative papers have been published in **Journal of Transport Geography**: "**Beyond correlation: Unveiling the causal link between streetscapes and recreational walking/cycling**" and "**Understanding cyclist route choice: A hierarchical adversarial inverse reinforcement learning approach to behavioral profiling**".
+
+**2026.07**: I join Discover Social Science and Health as a **<font color="red">Editor Board Member</font>**! [Editorial Board](https://link.springer.com/journal/44155/editorial-board)
 
 **2026.06**: One cllabrative paper (Global drought-flood abrupt alternation: Spatio-temporal patterns, drivers, and projections) has been recognized as a **<font color="red"> 2026 The Innovation Geoscience Award </font>** in Innovation Geoscience.
 ![Photo 1](/images/innovation.jpg)
@@ -218,6 +225,8 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 1. Zhang Y, Kwan M, Ma H. Sensing Noise Exposure and Its Inequality Based on Noise Complaint Data Through a Vision-Language Hybrid Method. *Applied Geography*, 2024. (IF=4.0, SSCI Q1)
 2. Zhang Y, Liu P, Biljecki F. Knowledge and Topology: A Two Layer Spatially Dependent Graph Neural Networks to Identify Urban Functions with Time-series Street View Image. *ISPRS Journal of Photogrammetry and Remote Sensing*, 2023. (IF=12.7, SCI Q1,<span class="red-text">ESI 3%</span>)
 3. Zhang Y, Li Y, Zhang F. Multi-level urban street representation with street-view imagery and hybrid semantic graph. *ISPRS Journal of Photogrammetry and Remote Sensing*, 2024. (IF=10.6, SCI Q1, <span class="red-text">ESI 3%</span>)
+4. Xu L, Shi H, Lyu W, Zhang Y, Zhao H. Beyond correlation: Unveiling the causal link between streetscapes and recreational walking/cycling. *Journal of Transport Geography*, 2026, 136: 104789. [Link](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=H8T2HtsAAAAJ&sortby=pubdate&citation_for_view=H8T2HtsAAAAJ:xm0LlTxljI0C)
+5. Ma X, Zhao Z, Zhang C, Liu D, Cui Q, Zhang Y, Gong Y, Liu Y. Understanding cyclist route choice: A hierarchical adversarial inverse reinforcement learning approach to behavioral profiling. *Journal of Transport Geography*, 2026, 136: 104779. [Link](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=H8T2HtsAAAAJ&sortby=pubdate&citation_for_view=H8T2HtsAAAAJ:ndLnGcHYRF0C)
 
 [Full list of publications](/publications/)
 
