@@ -46,6 +46,11 @@ lang: zh
 ======
 自2020年以来，我共发表21篇第一作者论文，其中17篇Q1期刊论文，4篇Q2期刊论文。另发表4篇通讯作者论文，均为Q1期刊。1篇论文入选ESI热点论文，3篇入选ESI高被引论文，1篇荣获Transactions in GIS高引用论文奖。
 
+参编著作
+------
+1. 《AI赋能智慧城市》（上、下册）. 中国测绘学会智慧城市工作委员会组织编写，陆锋 主编. 中国电力出版社, 2026.（智慧城市系列丛书；ISBN 978-7-5239-1354-3）—— 参编
+2. *Applications in Urban Sensing for Smart Cities* —— 参编. [ResearchGate](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
+
 审稿中/修改中论文
 ------
 1. **张岩**，柯恩通，关美宝，秦全，Weiming Huang，刘宇. HiPR：一种从社交媒体签到数据中学习个体表征的自监督框架. *International Journal of Geographical Information Science*（审稿中）

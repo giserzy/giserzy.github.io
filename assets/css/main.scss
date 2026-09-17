@@ -120,3 +120,35 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* ==========================================================================
+   Publication list thumbnails (first-page previews)
+   ========================================================================== */
+.archive__item {
+  /* contain the floated thumbnail */
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .pub-teaser-link {
+    float: left;
+    margin: 0.35rem 1.2rem 0.4rem 0;
+  }
+
+  .pub-teaser {
+    display: block;
+    width: 118px;
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .archive__item .pub-teaser {
+    width: 96px;
+  }
+}

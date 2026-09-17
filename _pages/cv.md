@@ -47,6 +47,11 @@ Publications
 ======
 Since 2020, I have published 21 first-author papers, including 17 Q1 papers and 4 Q2 papers. I have also published 4 corresponding-author papers, all in Q1 journals. One paper was selected as an ESI Hot Paper, three as ESI Highly Cited Papers, and one received the Transactions in GIS Mostly Cited Paper Award.
 
+Books (Contributed Chapters)
+------
+1. 《AI赋能智慧城市》(*AI-Empowered Smart Cities*, Vols. 1-2). Edited by the Smart City Working Committee of the Chinese Society for Surveying, Mapping and Geoinformation; Editor-in-Chief: Feng Lu. China Electric Power Press, 2026. (Smart City Book Series; ISBN 978-7-5239-1354-3) — Contributing author.
+2. *Applications in Urban Sensing for Smart Cities* — Contributing author. [ResearchGate](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
+
 Manuscripts Under Review or Revision
 ------
 1. **Zhang Y**, Entong Ke, Mei-Po Kwan, Quan Qin, Weiming Huang, Yu Liu. HiPR: A Self-Supervised Framework for Learning Individual Representations from Social Media Check-ins. *International Journal of Geographical Information Science* (under review)
