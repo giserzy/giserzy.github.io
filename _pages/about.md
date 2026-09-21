@@ -50,20 +50,19 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners' experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
 
-**2026.09**: One collaborative paper (From numerical attribution to semantic interpretation: environmental associations of noise perception with LLM and Geo-XAI) has been published in **<font color="red">Building and Environment</font>**! [Link](https://www.sciencedirect.com/science/article/pii/S0360132326010449)
+**2026.09**: Two books I contributed to have been published: **<font color="red">《AI赋能智慧城市》</font>** (*AI-Empowered Smart Cities*, Vols. 1-2, China Electric Power Press, 2026) and **<font color="red">*Applications in Urban Sensing for Smart Cities*</font>** (Elsevier, 2026)! [Book 1](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw) | [Book 2](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
 
-**2026.09**: My membership has been approved by the **<font color="red">Hong Kong Research Grants Council Research Fellow Alliance (HKRFA)</font>**! [Member Profile](https://hkrfa.hk/en/membership/listing/371/)
+**2026.09**: One collaborative paper (From numerical attribution to semantic interpretation: environmental associations of noise perception with LLM and Geo-XAI) has been published in **Building and Environment**! [Link](https://www.sciencedirect.com/science/article/pii/S0360132326010449)
+
+**2026.09**: My membership has been approved by the **Hong Kong Research Grants Council Research Fellow Alliance (HKRFA)**! [Member Profile](https://hkrfa.hk/en/membership/listing/371/)
 
 **2026.09**: Selected as a member of the **<font color="red">Second Committee of the ISDE Young Scientist Innovation Network (ISDE-YSIN)</font>**, International Society for Digital Earth (~25 members selected worldwide each year)! [ISDE-YSIN](https://www.digitalearth-isde.org/list-106-1.html)
 
-**2026.09**: GISChat dinner in **Shenzhen** to celebrate Jiayu joining a big tech company!
-![Photo 1](/images/92open.jpg)
+**2026.09**: Invited Speaker at the **Digital Spatial Society (DSS) Regular Meeting, The University of Tokyo**, presenting "Urban Representation Learning and Human Mobility Research".
 
-**2026.09**: Invited Speaker at the **Digital Spatial Society (DSS) Regular Meeting, The University of Tokyo**, presenting "**Urban Representation Learning and Human Mobility Research**".
+**2026.09**: Keynote Speaker at the **1st International Online Conference on Earth Science (IOCEA 2026)**, Session 1: *AI and Big Data in Earth Science*, presenting "Geospatial Representation Learning and Human Mobility Modeling Research".
 
-**2026.09**: Keynote Speaker at the **1st International Online Conference on Earth Science (IOCEA 2026)**, Session 1: *AI and Big Data in Earth Science*, presenting "**Geospatial Representation Learning and Human Mobility Modeling Research**".
-
-**2026.09**: Two collaborative papers have been published in **Journal of Transport Geography**: "**Beyond correlation: Unveiling the causal link between streetscapes and recreational walking/cycling**" and "**Understanding cyclist route choice: A hierarchical adversarial inverse reinforcement learning approach to behavioral profiling**".
+**2026.09**: Two collaborative papers have been published in **Journal of Transport Geography**: "Beyond correlation: Unveiling the causal link between streetscapes and recreational walking/cycling" and "Understanding cyclist route choice: A hierarchical adversarial inverse reinforcement learning approach to behavioral profiling". [Paper1](https://www.sciencedirect.com/science/article/abs/pii/S0966692326002334) [Paper2](https://www.sciencedirect.com/science/article/abs/pii/S0966692326002437)
 
 **2026.07**: I join Discover Social Science and Health as a **<font color="red">Editor Board Member</font>**! [Editorial Board](https://link.springer.com/journal/44155/editorial-board)
 
@@ -241,8 +240,7 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 
 ## Books (Contributed Chapters)
 
-1. 《AI赋能智慧城市》(*AI-Empowered Smart Cities*, Vols. 1-2). Edited by the Smart City Working Committee of the Chinese Society for Surveying, Mapping and Geoinformation; Editor-in-Chief: Feng Lu. China Electric Power Press, 2026. (Smart City Book Series; ISBN 978-7-5239-1354-3) — Contributing author. [Book intro](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw)
-2. *Applications in Urban Sensing for Smart Cities* — Contributing author. [ResearchGate](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
+Contributing author of two books: 《AI赋能智慧城市》(*AI-Empowered Smart Cities*, Vols. 1-2), Smart City Book Series, Editor-in-Chief: Feng Lu, China Electric Power Press, 2026 (ISBN 978-7-5239-1354-3) — [Book intro](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw); and *Applications in Urban Sensing for Smart Cities*, Elsevier, 2026 — [ResearchGate](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities).
 
 ## Awards and Honors
 
