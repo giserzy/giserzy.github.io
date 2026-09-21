@@ -42,6 +42,15 @@ redirect_from:
 
 
 ## 最新动态
+**2026.09**: 合作论文（从数值归因到语义解释：基于LLM与Geo-XAI的噪音感知环境关联研究）发表于 **<font color="red">Building and Environment</font>**！[链接](https://www.sciencedirect.com/science/article/pii/S0360132326010449)
+
+**2026.09**: 入选 **<font color="red">香港研资局研究学人联盟（HKRFA）</font>** 会员！[会员主页](https://hkrfa.hk/en/membership/listing/371/)
+
+**2026.09**: 当选国际数字地球学会**<font color="red">青年学者创新网络（ISDE-YSIN）第二届委员会</font>**委员（全球每年约25名）！[ISDE-YSIN](https://www.digitalearth-isde.org/list-106-1.html)
+
+**2026.09**: GISChat 深圳聚会，欢迎 Jiayu 入职大厂！
+![Photo 1](/images/92open.jpg)
+
 **2026.09**: 受邀在**东京大学"数字空间社会"（DSS）例会**上作学术报告，题目："城市表征学习与人类移动研究"。
 
 **2026.09**: 在**第一届国际地球科学在线会议（IOCEA 2026）**第一分会场"地球科学中的人工智能与大数据"作**主旨报告**，题目："地理空间表征学习与人类移动建模研究"。
@@ -186,6 +195,11 @@ redirect_from:
 5. Ma X, Zhao Z, Zhang C, Liu D, Cui Q, Zhang Y, Gong Y, Liu Y. 理解骑行者路径选择：行为画像的层次化对抗逆向强化学习方法. *Journal of Transport Geography*, 2026, 136: 104779.
 
 [查看完整发表列表](/zh/publications/)
+
+## 参编著作
+
+1. 《AI赋能智慧城市》（上、下册）. 中国测绘学会智慧城市工作委员会组织编写，陆锋 主编. 中国电力出版社, 2026.（智慧城市系列丛书；ISBN 978-7-5239-1354-3）—— 参编. [书籍介绍](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw)
+2. *Applications in Urban Sensing for Smart Cities* —— 参编. [ResearchGate](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
 
 ## 荣誉与奖项
 

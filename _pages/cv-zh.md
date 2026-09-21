@@ -67,6 +67,7 @@ lang: zh
 5. 杨伟，王昂，张国庆，**张岩**，许涛，廖明. 基于街景影像与深度学习的路灯太阳能利用潜力评估：以香港为例. *Renewable Energy*, 2026, IF=8.7, SCI Q1
 6. 张国庆，王昂，杨伟，范晓，**张岩**，许涛. 利用GPS轨迹和街景评估车载太阳能收集潜力. *Transportation Research Part D: Transport and Environment*, 2026, IF=7.7, SCI Q1
 7. 宋磊，王磊，关美宝，**张岩**. 城中村居民情感与空间环境：基于X分钟社区生活圈分析. *Applied Geography*, 2026, SSCI Q1
+8. 白钊丞，纪瑞，齐俊，高峰，刘松，**张岩**. 从数值归因到语义解释：基于LLM与Geo-XAI的噪音感知环境关联研究. *Building and Environment*, 2026, 305: 115243, IF=7.1, SCI Q1
 
 2025年
 ------

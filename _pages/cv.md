@@ -70,6 +70,7 @@ Manuscripts Under Review or Revision
 5. Yang W, Wang A, Zhang G, **Zhang Y**, Xu T, Liao M. Assessment of Solar Utilization Potential for Streetlights Using Street View Imagery and Deep Learning: A Case Study in Hong Kong. *Renewable Energy*, 2026, 124951, IF=8.7, SCI Q1
 6. Zhang G, Wang A, Yang W, Fan X, **Zhang Y**, Xu T. Assessing Vehicle Solar Energy Harvesting Using GPS Trajectories and Street Imagery. *Transportation Research Part D: Transport and Environment*, 2026, IF=7.7, SCI Q1
 7. Song L, Wang L, Kwan MP, **Zhang Y**. Residential Sentiments and Spatial Environments in Urban Villages: An X-minute Community Life Circle Analysis. *Applied Geography*, 2026, 189, 103945, SSCI Q1
+8. Bai Z, Ji R, Qi J, Gao F, Liu S, **Zhang Y**. From Numerical Attribution to Semantic Interpretation: Environmental Associations of Noise Perception with LLM and Geo-XAI. *Building and Environment*, 2026, 305, 115243, IF=7.1, SCI Q1
 
 2025
 ------
