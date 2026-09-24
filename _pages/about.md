@@ -50,7 +50,13 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners' experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
 
-**2026.09**: Two books I contributed to have been published: **<font color="red">《AI赋能智慧城市》</font>** (*AI-Empowered Smart Cities*, Vols. 1-2, China Electric Power Press, 2026) and **<font color="red">*Applications in Urban Sensing for Smart Cities*</font>** (Elsevier, 2026)! [Book 1](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw) | [Book 2](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
+**2026.09**: One urban noise sensing paper (Multi-frequency street-level urban noise modeling and mapping through street view and remote sensing image fusion) has been included as an **<font color="red">ESI highly cited paper (1%)</font>**！
+![Photo 1](/images/high1.png)
+
+**2026.09**: One mobility-based environmental exposure inequality paper (Social media big data reveals how mobility reshapes human environmental exposure inequality) has been included as an **<font color="red">ESI highly cited paper (1%)</font>**！
+![Photo 1](/images/high2.png)
+
+**2026.09**: Two books I contributed to have been published: **<font color="red">《AI赋能智慧城市》</font>** (*AI-Empowered Smart Cities*, Vols. 1-2, China Electric Power Press, 2026) and **<font color="red">*Applications in Urban Sensing for Smart Cities*</font>** (Elsevier, 2026)! [Book 1](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw), [Book 2](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
 
 **2026.09**: One collaborative paper (From numerical attribution to semantic interpretation: environmental associations of noise perception with LLM and Geo-XAI) has been published in **Building and Environment**! [Link](https://www.sciencedirect.com/science/article/pii/S0360132326010449)
 

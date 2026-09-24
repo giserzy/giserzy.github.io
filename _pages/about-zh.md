@@ -42,7 +42,13 @@ redirect_from:
 
 
 ## 最新动态
-**2026.09**: 参编的两本著作出版：**<font color="red">《AI赋能智慧城市》</font>**（上、下册，中国电力出版社，2026）与 **<font color="red">*Applications in Urban Sensing for Smart Cities*</font>**（Elsevier，2026）！[书1介绍](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw) | [书2](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
+**2026.09**: 街景噪声感知论文（基于街景与遥感影像融合的多频街道级城市噪声建模与制图）入选 **<font color="red">ESI高被引论文（前1%）</font>**！
+![Photo 1](/images/high1.png)
+
+**2026.09**: 环境暴露不平等论文（社交媒体大数据揭示移动性如何重塑人类环境暴露不平等）入选 **<font color="red">ESI高被引论文（前1%）</font>**！
+![Photo 1](/images/high2.png)
+
+**2026.09**: 参编的两本著作出版：**<font color="red">《AI赋能智慧城市》</font>**（上、下册，中国电力出版社，2026）与 **<font color="red">*Applications in Urban Sensing for Smart Cities*</font>**（Elsevier，2026）！[书1介绍](https://mp.weixin.qq.com/s/c9xNIp4x7tfrE-Adt4esHw), [书2](https://www.researchgate.net/publication/412281295_Applications_in_urban_sensing_for_smart_cities)
 
 **2026.09**: 合作论文（从数值归因到语义解释：基于LLM与Geo-XAI的噪音感知环境关联研究）发表于 **Building and Environment**！[链接](https://www.sciencedirect.com/science/article/pii/S0360132326010449)
 
