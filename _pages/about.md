@@ -50,6 +50,9 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners' experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
 
+**2026.10**: Ranked in the **<font color="red">World's Top 2% Scientists</font>** (Single Year 2026) by **Stanford University & Elsevier** (Global Rank 103,856; Sub-field Geological & Geomatics Engineering: Rank 1,157)!
+![Photo 1](/images/top2-scientist-2026.png)
+
 **2026.09**: One urban noise sensing paper (Multi-frequency street-level urban noise modeling and mapping through street view and remote sensing image fusion) has been included as an **<font color="red">ESI highly cited paper (1%)</font>**！
 ![Photo 1](/images/high1.png)
 

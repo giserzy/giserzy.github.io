@@ -42,6 +42,9 @@ redirect_from:
 
 
 ## 最新动态
+**2026.10**: 入选**斯坦福大学与 Elsevier 联合发布的** **<font color="red">全球前 2% 顶尖科学家榜单（World's Top 2% Scientists，2026 年度 Single Year）</font>**（全球排名 103,856；地质与测绘工程子领域排名 1,157）！
+![Photo 1](/images/top2-scientist-2026.png)
+
 **2026.09**: 街景噪声感知论文（基于街景与遥感影像融合的多频街道级城市噪声建模与制图）入选 **<font color="red">ESI高被引论文（前1%）</font>**！
 ![Photo 1](/images/high1.png)
 
