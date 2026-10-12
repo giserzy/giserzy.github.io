@@ -128,6 +128,7 @@ lang: zh
 
 荣誉与奖项
 ======
+* 2026年第十四届高校GIS论坛“高校GIS新锐”（全国共21人），2026年10月
 * Transactions in GIS高引用论文奖（第一作者），2026年3月
 * 国家地球观测数据中心年度十大最有价值数据集奖，2026年1月
 * ISPRS International Journal of Geo-Information Travel Award（全球每年仅两名），2026年1月

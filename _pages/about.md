@@ -50,6 +50,8 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners' experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
 
+**2026.10**: Selected as a **<font color="red">College GIS Rising Star (高校GIS新锐)</font>** by the **14th College GIS Forum (CGF)**, with the theme "Inheritance and Vision" (21 awardees nationwide; the award will be presented at the Forum in Wuhan, 6-8 Nov 2026)! [CGF](http://forum.gisera.com)
+
 **2026.10**: Ranked in the **<font color="red">World's Top 2% Scientists</font>** (Single Year 2026) by **Stanford University & Elsevier** (Global Rank 103,856; Sub-field Geological & Geomatics Engineering: Rank 1,157)!
 ![Photo 1](/images/top2-scientist-2026.png)
 
@@ -253,6 +255,7 @@ Contributing author of two books: 《AI赋能智慧城市》(*AI-Empowered Smart
 
 ## Awards and Honors
 
+- College GIS Rising Star (高校GIS新锐), the 14th College GIS Forum (CGF), 2026 (21 awardees nationwide)
 - National Scholarship for Ph.D. Students, Ministry of Education (Top 3%), 2021 & 2022
 - China Scholarship Council Scholarship for Studying Abroad, 2021
 - Top 10 Inspirational Graduate Students, Wuhan University, 2023

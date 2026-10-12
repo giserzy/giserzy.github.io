@@ -156,6 +156,7 @@ Grants and Projects
 
 Awards and Honors
 ======
+* College GIS Rising Star (高校GIS新锐), the 14th College GIS Forum (CGF), 21 awardees nationwide, Oct 2026
 * Transactions in GIS Mostly Cited Paper Award, first author, Mar 2026
 * Top 10 Most Valuable Annual Dataset Award, National Earth Observation Data Center, Jan 2026
 * ISPRS International Journal of Geo-Information Travel Award, two awardees worldwide per year, Jan 2026
