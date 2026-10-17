@@ -42,6 +42,12 @@ redirect_from:
 
 
 ## 最新动态
+**2026.11**: 获评 **<font color="red">2026年度空天数据开放共享优秀工作者（青年）</font>**（原“空天数据青年科学家”），由**国家对地观测科学数据中心（NODA）**颁发！将在2026年11月7-8日重庆召开的空天数据技术与数据治理研讨会（DTDC）上发布。[NODA](https://www.noda.ac.cn/)
+
+**2026.10**: 观点论文（Considering human mobility is essential for accurate environmental exposure assessment，*Science Bulletin*，2025）获 **<font color="red">Nature</font>** 引用（美国城市热暴露不平等与低收入社区绿化研究）！
+
+**2026.10**: 合作论文（Analysing gender differences in the perceived safety from street view imagery，*JAG*，2023）获 **<font color="red">Nature Cities</font>** 引用（Global urban visual perception varies across demographics and personalities）！
+
 **2026.10**: 获评 **<font color="red">2026年第十四届高校GIS论坛“高校GIS新锐”</font>**（本届论坛主题“传承与致远”，全国共21人；颁奖仪式将于2026年11月6-8日在武汉举行）！[论坛官网](http://forum.gisera.com)
 
 **2026.10**: 入选**斯坦福大学与 Elsevier 联合发布的** **<font color="red">全球前 2% 顶尖科学家榜单（World's Top 2% Scientists，2026 年度 Single Year）</font>**（全球排名 103,856；地质与测绘工程子领域排名 1,157）！
@@ -212,7 +218,14 @@ redirect_from:
 
 ## 荣誉与奖项
 
+- 2026年度空天数据开放共享优秀工作者（青年），国家对地观测科学数据中心，2026年
+- 全球前2%顶尖科学家榜单（World's Top 2% Scientists，2026年度；全球排名 103,856，子领域排名 1,157），斯坦福大学与 Elsevier，2026年
 - 2026年第十四届高校GIS论坛“高校GIS新锐”（全国共21人），2026年
+- 2026年 The Innovation Geoscience 奖，2026年
+- Transactions in GIS 高引用论文奖（第一作者），2026年
+- 国家地球观测数据中心年度十大最有价值数据集奖，2026年
+- ISPRS International Journal of Geo-Information Travel Award（全球每年仅两名），2026年
+- 第50届日内瓦国际发明展览会铜牌，2025年
 - 教育部博士研究生国家奖学金（前3%），2021年 & 2022年
 - 国家留学基金委出国留学奖学金，2021年
 <!-- - 武汉大学十大励志研究生，2023年 -->

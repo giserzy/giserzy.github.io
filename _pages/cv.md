@@ -156,6 +156,8 @@ Grants and Projects
 
 Awards and Honors
 ======
+* Outstanding Contributor in Aerospace Data Open Sharing (Youth) (2026年度空天数据开放共享优秀工作者(青年); formerly "Aerospace Data Young Scientist"), National Earth Observation Data Center (NODA), Nov 2026
+* World's Top 2% Scientists (Single Year 2026), Stanford University & Elsevier, Oct 2026
 * College GIS Rising Star (高校GIS新锐), the 14th College GIS Forum (CGF), 21 awardees nationwide, Oct 2026
 * Transactions in GIS Mostly Cited Paper Award, first author, Mar 2026
 * Top 10 Most Valuable Annual Dataset Award, National Earth Observation Data Center, Jan 2026

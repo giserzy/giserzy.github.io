@@ -50,6 +50,12 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners' experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
 
+**2026.11**: Selected as an **<font color="red">Outstanding Contributor in Aerospace Data Open Sharing (Youth)</font>** (2026年度空天数据开放共享优秀工作者(青年)) by the **National Earth Observation Data Center (NODA)**! Announced at the Aerospace Data Technology and Data Curation Symposium (DTDC), Chongqing, 7-8 Nov 2026. [NODA](https://www.noda.ac.cn/)
+
+**2026.10**: One perspective paper (Considering human mobility is essential for accurate environmental exposure assessment, *Science Bulletin*, 2025) has been cited by **<font color="red">Nature</font>** (Narrowing urban heat disparities alongside faster greening in low-income neighborhoods across cities in the United States)!
+
+**2026.10**: One collaborative paper (Analysing gender differences in the perceived safety from street view imagery, *JAG*, 2023) has been cited by **<font color="red">Nature Cities</font>** (Global urban visual perception varies across demographics and personalities)!
+
 **2026.10**: Selected as a **<font color="red">College GIS Rising Star (高校GIS新锐)</font>** by the **14th College GIS Forum (CGF)**, with the theme "Inheritance and Vision" (21 awardees nationwide; the award will be presented at the Forum in Wuhan, 6-8 Nov 2026)! [CGF](http://forum.gisera.com)
 
 **2026.10**: Ranked in the **<font color="red">World's Top 2% Scientists</font>** (Single Year 2026) by **Stanford University & Elsevier** (Global Rank 103,856; Sub-field Geological & Geomatics Engineering: Rank 1,157)!
@@ -255,7 +261,14 @@ Contributing author of two books: 《AI赋能智慧城市》(*AI-Empowered Smart
 
 ## Awards and Honors
 
+- Outstanding Contributor in Aerospace Data Open Sharing (Youth), National Earth Observation Data Center (NODA), 2026
+- World's Top 2% Scientists (Single Year 2026), Stanford University & Elsevier (Global Rank 103,856; Sub-field Rank 1,157), 2026
 - College GIS Rising Star (高校GIS新锐), the 14th College GIS Forum (CGF), 2026 (21 awardees nationwide)
+- 2026 The Innovation Geoscience Award, 2026
+- Transactions in GIS Mostly Cited Paper Award (first author), 2026
+- Top 10 Most Valuable Annual Dataset Award, National Earth Observation Data Center, 2026
+- ISPRS International Journal of Geo-Information Travel Award (two awardees worldwide per year), 2026
+- Bronze Medal, 50th International Exhibition of Inventions Geneva, 2025
 - National Scholarship for Ph.D. Students, Ministry of Education (Top 3%), 2021 & 2022
 - China Scholarship Council Scholarship for Studying Abroad, 2021
 - Top 10 Inspirational Graduate Students, Wuhan University, 2023
