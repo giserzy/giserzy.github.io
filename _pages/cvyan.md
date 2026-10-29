@@ -28,9 +28,9 @@
 \begin{minipage}[l]{0.8\textwidth}
   \name{Yan Zhang}
   \basicInfo{
-\email{sggzhang@whu.edu.cn} \textperiodcentered\ 
+\email{yanzhang@cuhk.edu.hk} \textperiodcentered\ 
 \faBirthdayCake{Birthday:1997} \textperiodcentered\
-\faGraduationCap{Citations:865(h-index:16)}
+\faGraduationCap{Citations:1,765(h-index:24)}
 }
 
 \end{minipage}

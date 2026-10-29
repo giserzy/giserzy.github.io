@@ -11,6 +11,22 @@ I am a RGC Junior Research Fellow (JRFS) in the Institute of Space and Earth Inf
 
 <!-- %开创移动性感知的环境暴露智能计算范式，基于GeoAI技术对城市理解的更准确，对个体健康评估的更动态，引领大范围多尺度个体粒度环境正义研究新方向。 -->
 
+<div class="scholar-stats">
+  <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
+    <span class="stat-num">1,765</span>
+    <span class="stat-label">Citations</span>
+  </a>
+  <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
+    <span class="stat-num">24</span>
+    <span class="stat-label">h-index</span>
+  </a>
+  <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
+    <span class="stat-num">37</span>
+    <span class="stat-label">i10-index</span>
+  </a>
+</div>
+<p class="scholar-stats-note">Source: <a href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, updated Oct 2026.</p>
+
 ## Motivation
 How do we quantitatively characterize the space you inhabit? Is your health risk the same as your neighbor's? My research is focused on answering these critical questions. We are pioneering a "**Mobile Sensing and Environment Exposure Intelligent Computing Paradigm**." This is a smarter, more granular computational methodology designed to overcome the challenges of insufficient "**scale**" and "**precision**" in traditional environmental health assessments.
 

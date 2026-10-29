@@ -14,7 +14,7 @@ Profile
 * **Yan Zhang (Zhang Yan)**
 * Email: yanzhang@cuhk.edu.hk
 * Born in 1997
-* Citations: 1,380; h-index: 21
+* Citations: 1,765; h-index: 24; i10-index: 37 (Google Scholar, updated Oct 2026)
 
 Education
 ======

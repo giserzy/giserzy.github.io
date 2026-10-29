@@ -12,6 +12,22 @@ redirect_from:
 
 <!-- %开创移动性感知的环境暴露智能计算范式，基于GeoAI技术对城市理解的更准确，对个体健康评估的更动态，引领大范围多尺度个体粒度环境正义研究新方向。 -->
 
+<div class="scholar-stats">
+  <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
+    <span class="stat-num">1,765</span>
+    <span class="stat-label">引用次数</span>
+  </a>
+  <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
+    <span class="stat-num">24</span>
+    <span class="stat-label">h 指数</span>
+  </a>
+  <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
+    <span class="stat-num">37</span>
+    <span class="stat-label">i10 指数</span>
+  </a>
+</div>
+<p class="scholar-stats-note">数据来源：<a href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>，更新于 2026 年 10 月。</p>
+
 ## 研究动机
 
 如何量化表征你所居住的空间？你的健康风险和你的邻居一样吗？我的研究正聚焦于回答这些关键问题。我们正在开创**"移动性感知的环境暴露智能计算新范式"**——这是一种更智能、更精细的计算方法，旨在解决传统环境健康评估中"**尺度**"和"**精度**"不足的挑战。
