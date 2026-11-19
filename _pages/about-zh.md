@@ -14,7 +14,7 @@ redirect_from:
 
 <div class="scholar-stats">
   <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
-    <span class="stat-num">1,765</span>
+    <span class="stat-num">1,816</span>
     <span class="stat-label">引用次数</span>
   </a>
   <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
@@ -22,11 +22,11 @@ redirect_from:
     <span class="stat-label">h 指数</span>
   </a>
   <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
-    <span class="stat-num">37</span>
+    <span class="stat-num">38</span>
     <span class="stat-label">i10 指数</span>
   </a>
 </div>
-<p class="scholar-stats-note">数据来源：<a href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>，更新于 2026 年 10 月。</p>
+<p class="scholar-stats-note">数据来源：<a href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>，更新于 2026 年 11 月。</p>
 
 ## 研究动机
 
@@ -39,6 +39,9 @@ redirect_from:
 通过结合大尺度视野与个体粒度精度，我们的研究最终将用于解决**环境不公平（环境正义）**问题，致力于确保环境风险和资源分配在每一个社区、每一个人之间都能实现公正。
 
 ## 特刊征稿
+
+**《Frontiers in Environmental Health》研究专题：[热暴露与人体健康：机制、脆弱人群与适应（Heat Exposure and Human Health: Mechanisms, Vulnerable Populations, and Adaptation）](https://www.frontiersin.org/journals/environmental-health)**  
+客座编委：Lorenzo Gianquintieri 博士（米兰理工大学）、张岩博士 —— *即将上线（forthcoming）*  
 
 **《Transactions in Urban Data, Science, and Technology》特刊：[时空数据挖掘与社会感知：方法与应用](https://journals.sagepub.com/page/tus/calls-for-papers/data-mining-with-social-sensing)**  
 <!-- 客座编委：王正宏博士、阮思捷博士、蒋伟伟博士、程诗奋博士、张岩博士、吴美柳博士   -->
@@ -58,16 +61,25 @@ redirect_from:
 
 
 ## 最新动态
-**2026.11**: 获评 **<font color="red">2026年度空天数据开放共享优秀工作者（青年）</font>**（原“空天数据青年科学家”），由**国家对地观测科学数据中心（NODA）**颁发！将在2026年11月7-8日重庆召开的空天数据技术与数据治理研讨会（DTDC）上发布。[NODA](https://www.noda.ac.cn/)
+**2026.11**: 洪水暴露论文（从平等到公平：城市洪涝中基于移动性的暴露与暴露规避选择的双重社会经济不平等）被 **<font color="red">Environmental Science & Technology</font>**（IF 12.2，中科院1区Top，Nature Index）录用！[链接](https://doi.org/10.1021/acs.est.6c06636)
 
-**2026.10**: 观点论文（Considering human mobility is essential for accurate environmental exposure assessment，*Science Bulletin*，2025）获 **<font color="red">Nature</font>** 引用（美国城市热暴露不平等与低收入社区绿化研究）！
+<!-- **2026.11**: 参加**第二届全国青年地理学家大会**暨第十三届全国地理学研究生学术年会（上海·华东师范大学，2026年11月13-15日，主题"数智时代的地理学创新：青年探索与时代担当"）。
+![Photo 1](/images/qingniansh2.jpg)
 
-**2026.10**: 合作论文（Analysing gender differences in the perceived safety from street view imagery，*JAG*，2023）获 **<font color="red">Nature Cities</font>** 引用（Global urban visual perception varies across demographics and personalities）！
+**2026.10**: 参加**第二十一届地理信息科学理论与方法学术年会**（浙江德清，2026年10月30日-11月1日，主题"时空智能引领，共筑可持续未来"）。
+![Photo 1](/images/gis2026hz.jpg) -->
 
-**2026.10**: 获评 **<font color="red">2026年第十四届高校GIS论坛“高校GIS新锐”</font>**（本届论坛主题“传承与致远”，全国共21人；颁奖仪式将于2026年11月6-8日在武汉举行）！[论坛官网](http://forum.gisera.com)
+**2026.11**: 获颁 **<font color="red">2026年度空天数据开放共享优秀工作者（青年）</font>**（原“空天数据青年科学家”），由**国家对地观测科学数据中心（NODA）**颁发！于2026年11月7-8日重庆召开的空天数据技术与数据治理研讨会（DTDC 2026）上颁发。[发布推文](https://mp.weixin.qq.com/s/ate2JKMdHLlVvsX0v_oW9g)
+![Photo 1](/images/ktsj.jpg)
+![Photo 2](/images/ktsj2.jpg)
+
+**2026.11**: 于武汉召开的**第十四届高校GIS论坛**（主题"传承与致远"，2026年11月6-8日）上荣获 **<font color="red">"高校GIS新锐"</font>** 奖项（全国共21人）！[公示推文](https://mp.weixin.qq.com/s/uN__DFWAN6ecfV2-SeFjVg)
+![Photo 1](/images/xinrui.jpg)
 
 **2026.10**: 入选**斯坦福大学与 Elsevier 联合发布的** **<font color="red">全球前 2% 顶尖科学家榜单（World's Top 2% Scientists，2026 年度 Single Year）</font>**（全球排名 103,856；地质与测绘工程子领域排名 1,157）！
 ![Photo 1](/images/top2-scientist-2026.png)
+
+**2026.10**: 观点论文（Considering human mobility is essential for accurate environmental exposure assessment，*Science Bulletin*，2025）获 **<font color="red">Nature Communications</font>** 引用（Narrowing urban heat disparities alongside faster greening in low-income neighborhoods across cities in the United States）！[链接](https://doi.org/10.1038/s41467-026-78468-y)
 
 **2026.09**: 街景噪声感知论文（基于街景与遥感影像融合的多频街道级城市噪声建模与制图）入选 **<font color="red">ESI高被引论文（前1%）</font>**！
 ![Photo 1](/images/high1.png)
@@ -126,6 +138,8 @@ redirect_from:
 
 **2025.11**: 🎉 引用量突破**1000次**！五年学术历程的重要里程碑，感谢每一位引用我工作的学者！
 ![Photo 1](/images/Citation.jpg)
+
+**2025.10**: 合作论文（Analysing gender differences in the perceived safety from street view imagery，*JAG*，2023）获 **<font color="red">Nature Cities</font>** 引用（Global urban visual perception varies across demographics and personalities）！[链接](https://doi.org/10.1038/s44284-025-00330-x)
 
 **2025.08**: 图神经网络城市感知论文入选 **<font color="red">ESI高被引（前1%）& ESI热点论文（前0.1%）</font>**！[链接](https://www.sciencedirect.com/science/article/abs/pii/S0169204624001701)
 ![Photo 1](/images/hot.png)

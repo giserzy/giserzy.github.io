@@ -13,7 +13,7 @@ I am a RGC Junior Research Fellow (JRFS) in the Institute of Space and Earth Inf
 
 <div class="scholar-stats">
   <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
-    <span class="stat-num">1,765</span>
+    <span class="stat-num">1,816</span>
     <span class="stat-label">Citations</span>
   </a>
   <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
@@ -21,11 +21,11 @@ I am a RGC Junior Research Fellow (JRFS) in the Institute of Space and Earth Inf
     <span class="stat-label">h-index</span>
   </a>
   <a class="stat-item" href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">
-    <span class="stat-num">37</span>
+    <span class="stat-num">38</span>
     <span class="stat-label">i10-index</span>
   </a>
 </div>
-<p class="scholar-stats-note">Source: <a href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, updated Oct 2026.</p>
+<p class="scholar-stats-note">Source: <a href="https://scholar.google.com/citations?user=H8T2HtsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, updated Nov 2026.</p>
 
 ## Motivation
 How do we quantitatively characterize the space you inhabit? Is your health risk the same as your neighbor's? My research is focused on answering these critical questions. We are pioneering a "**Mobile Sensing and Environment Exposure Intelligent Computing Paradigm**." This is a smarter, more granular computational methodology designed to overcome the challenges of insufficient "**scale**" and "**precision**" in traditional environmental health assessments.
@@ -42,6 +42,9 @@ By integrating a large-scale perspective with individual-level granularity, our 
 通过结合大尺度视野与个体粒度精度，我们的研究最终将用于解决环境不公平问题。我们致力于确保环境风险和资源分配在每一个社区、每一个人之间都能实现公正。 -->
 
 ## Special Issue
+**Frontiers in Environmental Health, Research Topic: [Heat Exposure and Human Health: Mechanisms, Vulnerable Populations, and Adaptation](https://www.frontiersin.org/journals/environmental-health)**  
+Guest Editors: Dr. Lorenzo Gianquintieri (Politecnico di Milano) and Dr. Yan Zhang — *forthcoming, manuscripts invitation-only stage*  
+
 **Transactions in Urban Data, Science, and Technology, Special Issue: [Spatio-Temporal Data Mining with Social Sensing: Methods and Applications](https://journals.sagepub.com/page/tus/calls-for-papers/data-mining-with-social-sensing)**  
 Guest Editors: Dr. Zhenghong Wang, Dr. Sijie Ruan, Dr. Weiwei Jiang, Dr. Shifen Cheng, Dr. Yan Zhang, and Dr. Meiliu Wu  
 Full paper submission deadline: **<font color="red">30 September 2026</font>**
@@ -66,16 +69,25 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 <!-- **2026.02**: One SVI urban sensing paper (How about electric vehicle? Sensing owners' experiences and attitudes through online short video) has been included as an **<font color="red">ESI highly cited paper (1%)</font>** ！
 ![Photo 1](/images/highcite.png) -->
 
-**2026.11**: Selected as an **<font color="red">Outstanding Contributor in Aerospace Data Open Sharing (Youth)</font>** (2026年度空天数据开放共享优秀工作者(青年)) by the **National Earth Observation Data Center (NODA)**! Announced at the Aerospace Data Technology and Data Curation Symposium (DTDC), Chongqing, 7-8 Nov 2026. [NODA](https://www.noda.ac.cn/)
+**2026.11**: One flood exposure paper (From Equality to Equity: The Dual Socioeconomic Inequalities of Mobility-Based Exposure and Exposure Avoidance Options during Urban Floods) has been accepted by **<font color="red">Environmental Science & Technology</font>** (IF 12.2, CAS Q1 Top, Nature Index)! [Link](https://doi.org/10.1021/acs.est.6c06636)
 
-**2026.10**: One perspective paper (Considering human mobility is essential for accurate environmental exposure assessment, *Science Bulletin*, 2025) has been cited by **<font color="red">Nature</font>** (Narrowing urban heat disparities alongside faster greening in low-income neighborhoods across cities in the United States)!
+<!-- **2026.11**: Attended the **2nd National Young Geographers Congress** (暨第十三届全国地理学研究生学术年会), East China Normal University, Shanghai, 13-15 Nov 2026 (theme: "Geographic Innovation in the Digital-Intelligence Era").
+![Photo 1](/images/qingniansh2.jpg)
 
-**2026.10**: One collaborative paper (Analysing gender differences in the perceived safety from street view imagery, *JAG*, 2023) has been cited by **<font color="red">Nature Cities</font>** (Global urban visual perception varies across demographics and personalities)!
+**2026.10**: Attended the **21st Annual Conference on Geographic Information Science Theories and Methods**, Deqing, Zhejiang, 30 Oct - 1 Nov 2026 (theme: "Spatio-temporal Intelligence for a Sustainable Future").
+![Photo 1](/images/gis2026hz.jpg) -->
 
-**2026.10**: Selected as a **<font color="red">College GIS Rising Star (高校GIS新锐)</font>** by the **14th College GIS Forum (CGF)**, with the theme "Inheritance and Vision" (21 awardees nationwide; the award will be presented at the Forum in Wuhan, 6-8 Nov 2026)! [CGF](http://forum.gisera.com)
+**2026.11**: Received the **<font color="red">Outstanding Contributor in Aerospace Data Open Sharing (Youth)</font>** (2026年度空天数据开放共享优秀工作者(青年)) from the **National Earth Observation Data Center (NODA)**, presented at the Aerospace Data Technology and Data Curation Symposium (DTDC 2026), Chongqing, 7-8 Nov 2026! [Announcement](https://mp.weixin.qq.com/s/ate2JKMdHLlVvsX0v_oW9g)
+![Photo 1](/images/ktsj.jpg)
+![Photo 2](/images/ktsj2.jpg)
+
+**2026.11**: Received the **<font color="red">College GIS Rising Star (高校GIS新锐)</font>** award at the **14th College GIS Forum (CGF)** with the theme "Inheritance and Vision", held in Wuhan, 6-8 Nov 2026 (21 awardees nationwide)! [Announcement](https://mp.weixin.qq.com/s/uN__DFWAN6ecfV2-SeFjVg)
+![Photo 1](/images/xinrui.jpg)
 
 **2026.10**: Ranked in the **<font color="red">World's Top 2% Scientists</font>** (Single Year 2026) by **Stanford University & Elsevier** (Global Rank 103,856; Sub-field Geological & Geomatics Engineering: Rank 1,157)!
 ![Photo 1](/images/top2-scientist-2026.png)
+
+**2026.10**: One perspective paper (Considering human mobility is essential for accurate environmental exposure assessment, *Science Bulletin*, 2025) has been cited by **<font color="red">Nature Communications</font>** (Narrowing urban heat disparities alongside faster greening in low-income neighborhoods across cities in the United States)! [Link](https://doi.org/10.1038/s41467-026-78468-y)
 
 **2026.09**: One urban noise sensing paper (Multi-frequency street-level urban noise modeling and mapping through street view and remote sensing image fusion) has been included as an **<font color="red">ESI highly cited paper (1%)</font>**！
 ![Photo 1](/images/high1.png)
@@ -141,6 +153,8 @@ Submission system closing: **<font color="red"> ~~31 December 2024~~ </font>**
 
 **2025.11**: 🎉 1000 Citations! A milestone that marks my five-year academic journey. Grateful for every scholar who cited my work, helping spread the flame of knowledge. Onward and upward!
 ![Photo 1](/images/Citation.jpg)
+
+**2025.10**: One collaborative paper (Analysing gender differences in the perceived safety from street view imagery, *JAG*, 2023) has been cited by **<font color="red">Nature Cities</font>** (Global urban visual perception varies across demographics and personalities)! [Link](https://doi.org/10.1038/s44284-025-00330-x)
 
 **2025.08**: One GNN driven urban sensing paper (How does spatial structure affect psychological restoration? A method based on graph neural networks and street view imagery) has been included as an **<font color="red">ESI highly cited paper (1%) & ESI hot cited paper (0.1%)</font>** Paper [Link](https://www.sciencedirect.com/science/article/abs/pii/S0169204624001701)！
 ![Photo 1](/images/hot.png)

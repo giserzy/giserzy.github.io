@@ -13,7 +13,7 @@ lang: zh
 * **张岩（Zhang Yan）**
 * 邮箱：yanzhang@cuhk.edu.hk
 * 出生年份：1997年
-* 引用次数：1,765；h指数：24；i10指数：37（Google Scholar，更新于2026年10月）
+* 引用次数：1,816；h指数：24；i10指数：38（Google Scholar，更新于2026年11月）
 
 教育背景
 ======
@@ -68,6 +68,7 @@ lang: zh
 6. 张国庆，王昂，杨伟，范晓，**张岩**，许涛. 利用GPS轨迹和街景评估车载太阳能收集潜力. *Transportation Research Part D: Transport and Environment*, 2026, IF=7.7, SCI Q1
 7. 宋磊，王磊，关美宝，**张岩**. 城中村居民情感与空间环境：基于X分钟社区生活圈分析. *Applied Geography*, 2026, SSCI Q1
 8. 白钊丞，纪瑞，齐俊，高峰，刘松，**张岩**. 从数值归因到语义解释：基于LLM与Geo-XAI的噪音感知环境关联研究. *Building and Environment*, 2026, 305: 115243, IF=7.1, SCI Q1
+9. 柯恩桐，**张岩**，关美宝，孙晓萌，陈祺宇，顾天顺，侯策，孙梦谦，刘雨潇，兰添. 从平等到公平：城市洪涝中基于移动性的暴露与暴露规避选择的双重社会经济不平等. *Environmental Science & Technology*, 2026, 60(43): 30659-30670, IF=12.2, SCI Q1, Nature Index
 
 2025年
 ------

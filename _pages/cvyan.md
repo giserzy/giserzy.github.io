@@ -30,7 +30,7 @@
   \basicInfo{
 \email{yanzhang@cuhk.edu.hk} \textperiodcentered\ 
 \faBirthdayCake{Birthday:1997} \textperiodcentered\
-\faGraduationCap{Citations:1,765(h-index:24)}
+\faGraduationCap{Citations:1,816(h-index:24)}
 }
 
 \end{minipage}

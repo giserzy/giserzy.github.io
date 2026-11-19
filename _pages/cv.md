@@ -14,7 +14,7 @@ Profile
 * **Yan Zhang (Zhang Yan)**
 * Email: yanzhang@cuhk.edu.hk
 * Born in 1997
-* Citations: 1,765; h-index: 24; i10-index: 37 (Google Scholar, updated Oct 2026)
+* Citations: 1,816; h-index: 24; i10-index: 38 (Google Scholar, updated Nov 2026)
 
 Education
 ======
@@ -71,6 +71,7 @@ Manuscripts Under Review or Revision
 6. Zhang G, Wang A, Yang W, Fan X, **Zhang Y**, Xu T. Assessing Vehicle Solar Energy Harvesting Using GPS Trajectories and Street Imagery. *Transportation Research Part D: Transport and Environment*, 2026, IF=7.7, SCI Q1
 7. Song L, Wang L, Kwan MP, **Zhang Y**. Residential Sentiments and Spatial Environments in Urban Villages: An X-minute Community Life Circle Analysis. *Applied Geography*, 2026, 189, 103945, SSCI Q1
 8. Bai Z, Ji R, Qi J, Gao F, Liu S, **Zhang Y**. From Numerical Attribution to Semantic Interpretation: Environmental Associations of Noise Perception with LLM and Geo-XAI. *Building and Environment*, 2026, 305, 115243, IF=7.1, SCI Q1
+9. Ke E, **Zhang Y**, Kwan MP, Sun X, Chen Q, Gu T, Hou C, Sun M, Liu Y, Lan T. From Equality to Equity: The Dual Socioeconomic Inequalities of Mobility-Based Exposure and Exposure Avoidance Options during Urban Floods. *Environmental Science & Technology*, 2026, 60(43), 30659-30670, IF=12.2, SCI Q1, Nature Index
 
 2025
 ------
